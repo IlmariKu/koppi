@@ -1,0 +1,20 @@
+node_modules
+dist
+.cache
+.DS_Store
+*__pycache__
+*.aws-sam
+*.vscode
+
+# markuksen latex-shitit
+koppi*.tex
+koppi*.blg
+koppi*.bbl
+koppi*.toc
+koppi*.snm
+koppi*.out
+koppi*.nav
+koppi*.aux
+koppi*.log
+# välil tupsahtaa exceleis
+.~lock*

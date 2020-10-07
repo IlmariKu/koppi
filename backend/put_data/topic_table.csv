@@ -1,0 +1,102 @@
+TopicId,Subject,CourseNumber,Topic,TopicOrder
+1,Kemia,1,Atomi,1
+2,Kemia,1,Jaksollinen järjestelmä,2
+3,Kemia,1,Ionisidos,3
+4,Kemia,1,Kovalenttinen sidos,4
+5,Kemia,1,Metallisidos,5
+6,Kemia,1,Elektronegatiivisuus,6
+7,Kemia,1,Elektronegatiivisuusarvot,7
+8,Kemia,1,Poolisuus,8
+9,Kemia,1,Heikot sidokset,9
+10,Kemia,1,Dispersiovoima,10
+11,Kemia,1,Liukoisuus,11
+12,Kemia,1,Atomimassa,12
+13,Kemia,1,Suhteellinen atomimassa,13
+14,Kemia,1,Mooli,14
+15,Kemia,1,"Ainemäärä, moolimassa ja Avogadron vakio",15
+16,Kemia,1,Harjoituksia ainemäärällä,16
+17,Kemia,1,Massa- ja tilavuusprosentti,17
+18,Kemia,1,Konsentraatio,18
+19,Kemia,1,Yhteenvetodemonstraatioita,19
+20,Kemia,1,Kidevesi,20
+21,Kemia,2,Minimienergiaperiaate,1
+22,Kemia,2,Bohrin atomimalli,2
+23,Kemia,2,Kvanttimekaaninen atomimalli,3
+24,Kemia,2,Paulin kieltosääntö & Hundin sääntö,4
+25,Kemia,2,Jaksollinen järjestelmä orbitaalien mukaan,5
+26,Kemia,2,Atomin koko,6
+27,Kemia,2,Ionisaatioenergia (IE),7
+28,Kemia,2,σ- ja π-sidokset,8
+29,Kemia,2,Hybridiorbitaalit,9
+30,Kemia,2,Sp2- ja sp-hybridiorbitaalit,10
+31,Kemia,2,Hybridiorbitaalit ja sidospituudet,11
+32,Kemia,2,Kiinteiden aineiden rakenteet,12
+33,Kemia,2,Hilatyyppien ominaisuudet,13
+34,Kemia,2,Rakenneisomeria,14
+35,Kemia,2,Konformaatioisomeria,15
+36,Kemia,2,Cis-trans-isomeria,16
+37,Kemia,2,Transrasvat,17
+38,Kemia,2,Optinen isomeria,18
+39,Kemia,2,Aminohapot (rakenne),19
+40,Kemia,2,Proteiinit (rakenne),20
+41,Kemia,2,Entsyymit,21
+42,Kemia,3,Stoikiometria,1
+43,Kemia,3,Rajoittava lähtöaine,2
+44,Kemia,3,Seoslasku,3
+45,Kemia,3,Avogadron laki,4
+46,Kemia,3,Moolitilavuus,5
+47,Kemia,3,Kaasujen tilayhtälö,6
+48,Kemia,3,Tiheys,7
+49,Kemia,3,Reaktiosarja,8
+50,Kemia,3,Tislaus & kromatografia,9
+51,Kemia,3,Reaktioyhtälön tasapainottaminen,10
+52,Kemia,3,Yhteyttäminen,11
+53,Kemia,3,Suhdekaava,12
+54,Kemia,3,Entalpia,13
+55,Kemia,3,Perusmuodostumislämpö (entalpia),14
+56,Kemia,3,Hessin laki,15
+57,Kemia,3,Sidosenergia (entalpia),16
+58,Kemia,3,Entropia,17
+59,Kemia,3,Gibbsin energia,18
+60,Kemia,3,Aktivaatioenergia,19
+61,Kemia,3,Hapetusluku,20
+62,Kemia,3,Harjoituksia hapetusluvuilla,21
+63,Kemia,3,Saostuminen ja hajoaminen,22
+64,Kemia,3,Kompleksinmuodostusreaktio,23
+65,Kemia,3,Liittymisreaktio (additioreaktio),24
+66,Kemia,3,Korvautumisreaktio (substituutioreaktio),25
+67,Kemia,3,Hapettuminen (org. kemia),26
+68,Kemia,3,Happo-emäsreaktiot (org. kemia),27
+69,Kemia,4,Sähkökemia,1
+70,Kemia,4,Kennokaaviot,2
+71,Kemia,4,Normaalipotentiaali,3
+72,Kemia,4,Jalometallien hapettuminen,4
+73,Kemia,4,Ruostuminen,5
+74,Kemia,4,Elektrolyysi,6
+75,Kemia,4,Veden elektrolyysi,7
+76,Kemia,4,Elektrolyysilasku,8
+77,Kemia,4,Nernstin yhtälö,9
+78,Kemia,4,Titraus,10
+79,Kemia,4,Hapettuminen/pelkistyminen (org. kemia),11
+80,Kemia,4,Polymeerit,12
+81,Kemia,4,Grafeeni,13
+82,Kemia,5,Reaktiotasapaino,1
+83,Kemia,5,"Le Châtelier’n periaate (konsentraatio, paine, lämpötila)",2
+84,Kemia,5,Hapot ja emäkset (kertaus),3
+85,Kemia,5,Heikot emäkset ja neutraloituminen,4
+86,Kemia,5,Happo- ja emäsvakiot,5
+87,Kemia,5,Veden ionitulo,6
+88,Kemia,5,pH (eli happamuus),7
+89,Kemia,5,pH ja pOH,8
+90,Kemia,5,Vakioiden välinen yhteys,9
+91,Kemia,5,Moniarvoiset hapot,10
+92,Kemia,5,Happodemonstraatioita,11
+93,Kemia,5,Titraus,12
+94,Kemia,5,Liukoisuustulo,13
+95,Kemia,5,Ionitulo,14
+96,Kemia,5,Yhteinen ioni (liukoisuustulo),15
+97,Kemia,5,Liukoisuus ja pH,16
+98,Kemia,5,Puskuriliuos,17
+99,Kemia,5,Henderson-Hasselbalchin yhtälö,18
+100,Kemia,5,Laskuja puskuriliuoksilla,19
+101,Kemia,5,Tasapainovakio osapaineista,20

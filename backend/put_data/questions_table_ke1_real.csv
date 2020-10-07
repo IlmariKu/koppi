@@ -1,0 +1,165 @@
+QuestionText,Answer,TopicId,QuestionId,Difficulty,Type
+Mistä hiukkasista atomi koostuu?,"Protoneista, neutroneista ja elektroneista",1,1,1,flashcard
+Nukleoni on...,"Yhteisnimitys atomin ytimen hiukkasille, eli proneille ja neutroneille",1,2,1,flashcard
+Mistä atomin ydin koostuu?,Protoneista ja neutroneista,1,3,1,flashcard
+Minkä merkkinen sähköinen varaus on elektronilla?,Negatiivinen,1,4,1,flashcard
+Minkä merkkinen sähköinen varaus on protonilla?,Positiivinen,1,5,1,flashcard
+Millainen varaus on neutronilla?,"Ei varausta, neutraali",1,6,1,flashcard
+Missä atomin elektronit sijaitsevat?,"Ytimen ympärillä olevilla kuorilla, joita kutsutaan elektronikuoriksi.",1,7,1,flashcard
+Miksi kutsutaan yhden elektronin sähköisen varauksen suuruutta?,Alkeisvaraus,1,8,1,flashcard
+Sähkövaraus voi olla joko... ,Positiivinen tai negatiivinen.,1,9,1,flashcard
+Atomin kokonaisuutena on sähköisesti varautunut...,Neutraalisti. Protoneita ja elektroneita on sama määrä.,1,10,1,flashcard
+Mikä ero on protonin ja elektronin sähköisellä varauksella?,"Erimerkkisyys. Elektroni on negatiivisesti, protoni positiivisesti, varautunut.",1,11,1,flashcard
+Onko elektronin massa suurempi kuin protonin?,Ei. Protoni on yli tuhatkertaisesti suurempi.,1,12,1,flashcard
+Atomilla on ytimessään 1 protoni. Tämä alkuaine on siis...,Vety,2,13,1,flashcard
+Mikä on alkuaine?,"Aine, jonka jokaisen atomin ytimessä on sama lukumäärä protoneita",2,14,1,flashcard
+Jos alkuaineen atomiin lisää yhden protonin siitä tulee...,Eri alkuaine.,2,15,1,flashcard
+"Miksi merkki ""H"", yhdistetään vetyyn?","""H""- on vedyn kemiallinen merkki",2,16,1,flashcard
+Mikä on kemiallinen merkki?,Viittaus tiettyyn alkuaineeseen lyhyemmässä muodossa.,2,17,1,flashcard
+"Minkä alkuaineen kemiallinen merkki on ""C""?",Hiili,2,18,1,flashcard
+"Minkä alkuaineen kemiallinen merkki on ""He""?",Helium,2,19,1,flashcard
+"Minkä alkuaineen kemiallinen merkki on ""O""?",Happi,2,20,1,flashcard
+Mikä on isotooppi?,"Alkuaineen eri muotoja, joissa on eri määrä neutroneita.",2,21,1,flashcard
+Atomilla on ytimessään 1 neutroni. Tämä alkuaine on siis...,Ei voida tietää pelkästään neutronien määrän perusteella. Aine voi olla isotooppi.,2,22,1,flashcard
+Onko alkuaineen isotoopilla erilainen varaus kuin itse alkuaineella?,Ei ole. Neutroni on sähköisesti neutraali.,2,23,1,flashcard
+Hajoavatko isotoopit aina itsestään ajan kuluessa? ,"Eivät, se riippuu isotoopista. Osa hajoaa nopeasti, osa taas on pysyviä.",2,24,1,flashcard
+"Mitä tapahtuu, kun isotooppi hajoaa?",Radioaktiivista säteilyä vapautuu.,2,25,1,flashcard
+Mitä järjestysluku kertoo atomista?,Protonien määrän ytimessä.,2,26,1,flashcard
+Mitä massaluku kertoo atomista?,Protonien ja neutronien yhteismäärän ytimessä.,2,27,1,flashcard
+Kirjoitetaanko massaluku ylä- vai alaindeksiin kemiallisen merkin viereen?,Yläindeksiin,2,28,1,flashcard
+Kirjoitetaanko järjestysluku ylä- vai alaindeksiin kemiallisen merkin viereen?,Alaindeksiin,2,29,1,flashcard
+Alkuaineen järjestysluku on 10 ja massaluku 18. Kuinka monta neutronia tämän isotoopin ytimessä on?,8,2,30,1,flashcard
+Millä tavalla alkuaineen järjestysluvusta ja massaluvusta saadaan neutronien lukumäärä?,Massaluku - järjestysluku = Neutronien lukumäärä,2,31,1,flashcard
+Mitä tarkoittaa Bohrin atomimalli?,"Atomien esittämistä tavalla, jossa ytimen ympärillä on elektronikuoria.",3,32,1,flashcard
+Kuka keksi Bohrin atomimallin?,Niels Bohr,3,33,1,flashcard
+"Millä kahdella tavalla voidaan merkitä elektronikuorta, joka on lähimpänä ydintä?",1.elektronikuori tai K-kuori,3,34,1,flashcard
+"Miksi kutsutaan elektronikuorta, joka on kolmanneksi lähin kuori ytimen ympärillä?",3. elektronikuori tai M-kuori,3,35,1,flashcard
+Kuinka monta elektronia mahtuu 1. elektronikuorelle?,2,3,36,1,flashcard
+"Muistele kaava, jolla lasketaan elektronikuorelle mahtuvien elektronien määrä","2n², jossa n tarkoittaa elektronikuoren numeroa. Esimerkiksi, ensimmäinen (1) elektronikuori 2*1² = 2",3,37,1,flashcard
+Onko elektroneilla erilainen energia eri elektronikuorilla?,"On. Elektronin energia on sitä suurempi, mitä kauemmalla elektronikuorella ytimestä ollaan.",3,38,1,flashcard
+"Täyttyvätkö elektronikuoret elektroneista järjestyksessä? Ensin täyttyy 1. kuori, sitten 2. kuori, sitten 3. jne.",Täyttyvät.,3,39,1,flashcard
+Voiko elektronikuori alkaa joskus täyttymään suoraan 2. elektronikuoresta täyttämättä 1. elektronikuorta?,Ei. Elektronikuoret täyttyvät aina järjestyksessä.,3,40,1,flashcard
+Minkä periaatteen mukaan elektronikuoret täyttyvät?,Minimienergiaperiaate. Elektronit menevät aina alhaisimman energian elektronikuorille.,3,41,1,flashcard
+Mitä ovat ulkoelektronit?,"Elektronit, jotka ovat sijoittuneet atomin uloimmalle elektronikuorelle.",3,42,1,flashcard
+"Miksi uloimman elektronikuoren elektronit ovat tärkeitä, eivätkä esimerkiksi sisimmän kuoren elektronit?",Uloimman elektronikuoren elekronit vaikuttavat suuresti aineen ominaisuuksiin.,3,43,1,flashcard
+Onko Bohrin atomimalli täysin todenmukainen kuvaus atomista?,"Ei. Nykytiedon valossa on kehitetty kvanttimekaaninen atomimalli, joka kuvaa atomien rakennetta paremmin.",3,44,1,flashcard
+Miten todennäköisyys liittyy elektroneihin kvanttimekaanisessa atomimallissa?,Elektronien sijaintia ei tiedetä varmasti vaan pelkästään todennäköinen alue missä elektroni milloinkin sijaitsee.,3,45,1,flashcard
+Mikä on kvanttimekaaninen atomimalli?,"Parhaan nykytiedon valossa kehitetty teoria, joka kuvaa atomin rakennetta ja etenkin elektronien todennäköistä sijaintia atomin ympärillä.",3,46,1,flashcard
+Mikä on alakuori?,"Elektronikuorella oleva alakuori, joita on yksi tai useampia.",3,47,1,flashcard
+Millä tavalla alakuoria merkitään?,"Kirjainlyhenteillä: s, p, d ja f",3,48,1,flashcard
+Miten alakuoret liittyvät elektronikuoren numeroon?,Elektronikuoren numero kertoo kuinka monta alakuorta elektronikuorella on.,3,49,1,flashcard
+Mitä numero 2 symboloi tässä merkinnässä: 1s²,Elektronien määrää alakuorella 1s,3,50,1,flashcard
+Kuinka monta alakuorta on täydellä elektronikuorella 1?,1,3,51,1,flashcard
+Kuinka monta alakuorta on täydellä elektronikuorella 4?,4,3,52,1,flashcard
+Montako elektronia mahtuu alakuorelle: s?,2,3,53,1,flashcard
+Atomilla on 3 täyttä elektronikuorta. Kuinka monta s -alakuorta atomilla on?,"3. Jokainen elektronikuori alkaa täyttymään ensin s-alakuorelta, joka on ensimmäinen alakuori",3,54,1,flashcard
+Atomilla on 2 täyttä elektronikuorta. Kuinka monta p -alakuorta atomilla on?,1. Atomissa on 2 kpl s-alakuoria ja 1 kpl p-alakuoria.,3,55,1,flashcard
+Miten merkitään 2. elektroninkuoren s-alakuorta?,2s,3,56,1,flashcard
+Miten merkitään 3. elektroninkuoren p-alakuorta?,3p,3,57,1,flashcard
+Miten merkitään 4. elektroninkuoren s-alakuorta?,4s,3,58,1,flashcard
+Kuinka monta elektronia mahtuu alakuorelle s?,2,3,59,1,flashcard
+Kuinka monta elektronia mahtuu alakuorelle p?,6,3,60,1,flashcard
+Atomilla on 1 elektroni. Mikä on atomin elektronirakenne?,1s¹,3,61,1,flashcard
+Atomilla on 2 elektronia. Mikä on atomin elektronirakenne?,1s²,3,62,1,flashcard
+Atomilla on 3 elektronia. Mikä on atomin elektronirakenne?,"1s², 2s¹",3,63,1,flashcard
+Atomilla on 7 elektronia. Mikä on atomin elektronirakenne?,"1s², 2s², 2p³",3,64,1,flashcard
+"Kuinka monta elektronia on elektronirakenteessa 1s², 2s², 2p²?",6,3,65,1,flashcard
+"Kuinka monta ulkoelektronia on elektronirakenteessa 1s², 2s², 2p²?",4,3,66,1,flashcard
+Mikä on jaksollinen järjestelmä?,"Taulukko, jossa alkuaineet on järjestetty kasvavan järjestysluvun mukaan.",4,67,1,flashcard
+Miksi kutsutaan jaksollisen järjestelmän vaakariviä?,Jaksoksi,4,68,1,flashcard
+Mitä jakso (rivinumero) kertoo alkuaineesta jaksollisessa järjestelmässä?,Alkuaineen elektronikuorten määrän.,4,69,1,flashcard
+Mitä ovat lantanoidit?,"Jaksollisen järjestelmän alkuaineita, jotka löytyvät ensimmäiseltä erilliseltä vaakariviltä jaksollisen järjestelmän alta. Niiden järjestysluvut sijoittuvat välille 57-71",4,70,1,flashcard
+Mitä ovat aktinoidit?,"Jaksollisen järjestelmän alkuaineita, jotka löytyvät toiselta erilliseltä vaakariviltä jaksollisen järjestelmän alta. Niiden järjestysluvut sijoittuvat välille 89-103",4,71,1,flashcard
+Miksi kutsutaan kaikkia jaksollisen järjestelmän pystyrivejä?,Ryhmiksi,4,72,1,flashcard
+Miksi kutsutaan jaksollisen järjestelmän pystyrivejä 1-2 ja 13-18?,Pääryhmiksi,4,73,1,flashcard
+Miksi kutsutaan jaksollisen järjestelmän pystyrivejä 3-12?,Sivuryhmiksi,4,74,1,flashcard
+Mitä yhteistä on saman pääryhmän alkuaineiden elektronikuorissa?,Alkuaineiden uloimmalla elektronikuorella on yhtä monta ulkoelektronia.,4,75,1,flashcard
+Mitä yhteistä on saman pääryhmän alkuaineiden reaktioissa?,"Ne ovat samanlaisia, koska ulkoelektronien määrä on sama.",4,76,1,flashcard
+Mikä on ioni?,"Yhdestä tai useammasta atomista koostuva aine, jossa on sähköinen varaus",5,77,1,flashcard
+Voiko ionilla olla pelkästään positiivinen varaus?,Ei. Negatiivinen tai positiivinen.,5,78,1,flashcard
+Voiko ionin varaus olla neutraali?,"Ei. Ioni tarkoittaa sitä, että hiukkanen on varautunut.",5,79,1,flashcard
+Mikä tekee ionista negatiivisesti varautuneen? ,Hiukkasella on enemmän elektroneja kuin protoneja.,5,80,1,flashcard
+Mikä tekee ionista positiivisesti varautuneen? ,Hiukkasella on enemmän protoneja kuin elektroneja.,5,81,1,flashcard
+Miksi kutsutaan positiivisesti varautuneita ioneja?,Kationeiksi,5,82,1,flashcard
+Miksi kutsutaan negatiivisesti varautuneita ioneja?,Anioneiksi,5,83,1,flashcard
+"Miten voi selvittää ionin varauksen jos tietää elektronien, protonien ja neutronien lukumäärän?",Protonien määrä - elektronien määrä = varaus,5,84,1,flashcard
+Millainen varaus on ionilla Ca²⁺?,2+,5,85,1,flashcard
+Mihin merkitään ionin varaus kemiallisen merkin viereen?,Oikealle puolelle yläindeksiin,5,86,1,flashcard
+Millainen varaus on ionilla K⁺?,"""+"", numeroa 1 ei merkitä jos on vain 1 varaus",5,87,1,flashcard
+Voiko ioni muodostua jos atomi menettää elektronin?,"Kyllä. Tällöin siitä muodostuu positiivisesti varautunut ioni, koska ytimessä on sama määrä positiivisia protoneita.",5,88,1,flashcard
+Mikä on metallisidos?,Metallisidoksessa metalliatomit luovuttavat ulkoelektroninsa. Ulkoelektronien negatiivisesti varautunut meri sitoo positiiviset metalliatomit hilarakenteeseen.,6,89,1,flashcard
+Mitä metallit haluavat tehdä elektroneilleen?,Luovuttaa niitä muodostaen positiivisen ionin eli kationin,6,90,1,flashcard
+Miksi metallit johtavat sähköä ja lämpöä?,Koska elektronit voivat liikkua vapaasti kiteessä,6,91,1,flashcard
+Miksi metallit ovat muovattavia ja taottavia?,Elektronimeressä olevat metalliydinten kerrokset voivat liukua toistensa yli,6,92,1,flashcard
+Miksi metalleilla on korkea sulamispiste?,Ydinten ja elektronien väliset elektrostaattiset vuorovaikutukset ovat vahvoja,6,93,1,flashcard
+Miksi metallt ovat kovia ja lujia?,Ydinten ja elektronien väliset elektrostaattiset vuorovaikutukset ovat vahvoja,6,94,1,flashcard
+Mikä on metalliseos?,"Metalliseos koostuu kahdesta tai useammasta alkuaineesta, joista vähintään yksi on metalli",6,95,1,flashcard
+Mikä metalliseos muodostuu kuparista ja tinasta?,Pronssi,6,96,1,flashcard
+Mikä metalliseos muodostuu raudasta ja hiilestä?,Teräs,6,97,1,flashcard
+Miten ionisidos eroaa kovalenttisesta sidoksesta?,Ionisidoksessa alkuaineiden välillä on suurempi elektronegatiivisuusero ,7,98,1,flashcard
+Miksi ioniyhdisteillä on korkea sulamispiste?,"Ionisidos on vahva sidostyyppi, kationien ja anionien välillä on vahvoja elektrostaattisia vuorovaikutuksia",7,99,1,flashcard
+"Mitkä ovat ruokasuolan, NaCl, kationin ja anionin varaukset?","Na: +1, Cl: -1",7,100,1,flashcard
+Mikä on ioniyhdisteiden rakenne kiinteänä?,"Kolmeulotteinen hilarakenne, jossa anionit (-) ja kationit (+) vuorottelevat",7,101,1,flashcard
+Miksi suolat ovat hauraita?,Hilarakenteessa olevat anionit ja kationit eivät pääse liikkumaan hilassa.,7,102,1,flashcard
+Mistä molekyyli koostuu?,"Molekyyli koostuu atomeista, jotka ovat sitoutuneet toisiinsa kovalenttisilla sidoksilla",8,103,1,flashcard
+Mikä on kovalenttinen sidos?,"Kovalenttisessa sidoksessa kaksi atomia jakavat keskenään ulkoelektroneja siten, että ne saavuttavat jalokaasurakenteen",8,104,1,flashcard
+Mikä on yksöissidos?,"Yksöissidoksessa kumpikin atomi luovuttaa yhden elektronin sidokseen, tuottaen yhden sidoselektroniparin",8,105,1,flashcard
+Mikä on kaksoissidos?,"Kaksoissidoksessa kumpikin atomi luovuttaa kaksi elektronia sidokseen, tuottaen kaksi sidoselektroniparia",8,106,1,flashcard
+Mikä on kolmoissidos?,"Komoissidoksessa kumpikin atomi luovuttaa kolmea elektronia sidokseen, tuottaen kolme sidoselektroniparia",8,107,1,flashcard
+Mikä on vahvin kovalenttinen sidos?,Kolmoissidos,8,108,1,flashcard
+Mitä käy sidoksen voimakkuudelle sidoselektroniparien määrän kasvaessa?,Sidos vahvistuu siirtyessä yksöissidoksesta kolmossidokseen.,8,109,1,flashcard
+Mitä on elektronegatiivisuus?,Atomin kyky vetää elektroneja puoleensa sidoksessa?,8,110,1,flashcard
+Mikä sidos on O2-molekyylissä?,Kaksoissidos,8,111,1,flashcard
+Mikä sidos on N2-molekyylissä?,Kolmoissidos,8,112,1,flashcard
+Mikä sidos on H2-molekyylissä?,Yksöissidos,8,113,1,flashcard
+Mikä sidos on H2-molekyylissä?,Yksöissidos,8,114,1,flashcard
+Mikä sidos on Br2-molekyylissä?,Yksöissidos,8,115,1,flashcard
+Minkälaisia sidoksia on NH3-molekyylissä?,Yksöissidoksia,8,116,1,flashcard
+Minkälaisia sidoksia on CO2-molekyylissä?,Kaksoissidoksia,8,117,1,flashcard
+Montako yksöissidosta hiiliatomi haluaa muodostaa?,Neljä. Näin hiili saa suljetun elektronirakenteen,8,118,1,flashcard
+Milloin sidos on poolinen?,"Sidos on poolinen, kun sen kahden atomin välillä on suuri elektronegatiivisuusero",8,119,1,flashcard
+Milloin molekyyli on poolinen?,"Molekyyli on poolinen, kun molekyylillä on samaan suuntaan osoittava kokonaisdipoli",8,120,1,flashcard
+Onko H-F poolinen vai pooliton?,"H-F on poolinen, vedyn (H) ja fluorin (F) elektronegatiivisuusero on 1.8",8,121,1,flashcard
+Onko H-I poolinen vai pooliton?,"H-I on poolinen, vedyn (H) ja jodin (I) elektronegatiivisuusero on 0.5",8,122,1,flashcard
+"Kumpi on poolisempi, H-F vai H-I","H-F, jodi (I) on elektronegatiivisempi kuin fluori (F)",8,123,1,flashcard
+Onko F-F poolinen?,"Ei ole, molekyyli koostuu kahdesta samasta alkuaineesta joilla on sama elektronegatiivisuus",8,124,1,flashcard
+Onko Cl-Cl poolinen?,"Ei ole, molekyyli koostuu kahdesta samasta alkuaineesta joilla on sama elektronegatiivisuus",8,125,1,flashcard
+"Kumpi on poolisempi, H-Cl vai H-Br","H-F, kloori (Cl) on elektronegatiivisempi kuin bromi (Br)",8,126,1,flashcard
+Mitä eroa on kovalenttisella sidoksella ja heikoilla vuorovaikutuksilla?,Kovalenttiset sidokset liimaavat atomeita yhteen molekyyleiksi. Heikot vuorovaikutukset ovat näiden molekyylien välillä?,9,127,1,flashcard
+Rikkoutuuko kovalenttisia sidoksia sokerin liuetessa veteen?,"Ei. Sokerin liuetessa veteen irtoavat sokerimolekyylit toisistaan, sillä vesimolekyylit vuorovaikuttavat voimakkaammin sokerimolekyylien kanssa kuin sokerimolekyylit keskenään.",9,128,1,flashcard
+Mikä on dispersiovoima?,Elektronit vipeltävät elektronissa synnyttäen hetkittäisiä dipoleja. Nämä vuorovaikutukset vetävät molekyylejä puoleensa.,9,129,1,flashcard
+Mikä on ioni-dipolisidos? ,Ionisidoksessa varautunut ioni vetää puoleensa molekyylin erivarauksisista puolta,9,130,1,flashcard
+Mikä on dipoli-dipolisidos?,Dipoli-dipolisidoksessa yhden molekyylinen negatiivinen varautunut pää vetää puoleensa toisen molekyylin positiivista päätä,9,131,1,flashcard
+Mikä on dipoli?,Dipolissa positiiviset ja negatiiviset varauksen muodostama pari,9,132,1,flashcard
+Mikä on vetysidos?,Vetysidos on dipoli-dipolisidoksen erityistapaus. Se koostuu vetysidosluovuttajasta (esimerkiksi OH) ja vastaanottajasta  (esim O),9,133,1,flashcard
+Mitä vuorovaikutuksia on ruokasuolan (NaCl) ja veden (H2O) liuoksessa?,Vesimolekyylien välillä on vetysidoksia. Ionien ja vesimolekyylien välillä on ioni-dipolisidoksia.,9,134,1,flashcard
+Mistä veden korkea kiehumispiste johtuu?,Vesimolekyylien välisistä vahvoista vetysidoksista,9,135,1,flashcard
+Mistä veden suuri pintajännitys johtuu?,Vesimolekyylien välisistä vahvoista vetysidoksista,9,136,1,flashcard
+Mitä vuorovaikutuksia on jalokaasuatomeilla?,Jalokaasuatomien välillä on ainoastaan dispersovuorovaikutuksia,9,137,1,flashcard
+Mitä vuorovaikutuksia on poolittomilla atomeilla?,Poolittomien molekyylien välillä on ainoastaan dispersiovuorovaikutuksia,9,138,1,flashcard
+Mitä on amorfinen aine?,"Aineen kiinteä olomuoto, jossa osasilla ei ole säännöllistä rakennetta. Esimerkiksi lasi tai erilaiset villasukan selluloosakuidut.",10,139,1,flashcard
+Mitä on kiteinen aine?,"Aineen kiinteä olomuoto, jossa osasilla on tarkka kolmiulotteinen eli hilarakenne. Esimerkiksi timantti, suolat, metallit.",10,140,1,flashcard
+Mitä olomuotoja aineella on?,"Kiinteä, neste, kaasu",10,141,1,flashcard
+Miten kiinteä aine pysyy kasassa?,"Metallisidoksilla, ionisidoksilla, tai heikoilla vuorovaikutuksilla.",10,142,1,flashcard
+Mitä sulamisessa tapahtuu?,"Sulaessa aine muuttuu kiinteästä nesteeksi. Aineen saavuttaessa sulamislämpötilan, sen osasten liike-energia ylittää niitä paikallaanpitävien vuorovaikutusten energian, ja osaset pystyvät alkaa liikkua vapaasti",10,143,1,flashcard
+Mitä kiehumisessa tapahtuu,"Kiehuessa aine muuttuu nestemäisestä höyryksi. Aineen saavuttaessa kiehumispisteensä, sen osasten liike-energia ylittää niitä toisiaan pitävät voimat, ja osaset poistuvat nesteestä muodostaen kaasua",10,144,1,flashcard
+Mikä on liuos?,Liuos koostuu liuottimesta ja lienneesta aineesta,11,145,1,flashcard
+Minkälainen liuotin vesi on?,Vesi on poolinen liuotin. Tämä johtuu vedyn ja hapen suuresta elektronegatiivisuuserosta,11,146,1,flashcard
+Minkälaiset aineet liukenevat veteen?,"Pooliset aineet liukenevat veteen, sillä niille muodostuu dipoli-dipoli-vuorovaikutuksia",11,147,1,flashcard
+Minkälaiset aineet liukenevat minkälaiseen liuottimeen?,"Pooliset liukenevat poolisiin, poolittomat liukenevat poolittomiin liuottimiin",11,148,1,flashcard
+Mikä on faasi?,"Faasi on alue, jolla on on omat ominaisuutensa. Kahta faasia erottaa rajapinta.",11,149,1,flashcard
+Mitä tapahtuu kun pooliton aine liuotetaan pooliseen liuottimeen? ,Aine ei liukene vaan muodostaa oman faasinsa.,11,150,1,flashcard
+Miksi ruokaöljy ei liukene veteen?,Ruokaöljy koostuu poolittomista rasvahapoista. Vesi on poolinen liuotin.,11,151,1,flashcard
+Mitä vuorovaikutuksia on liuenneen aineen ja liuottimen välillä?,Heikkoja vuorovaikutuksia,11,152,1,flashcard
+Mihin rasvat liukenevat?,Rasvat liukenevat poolittomiin liuottimiin,11,153,1,flashcard
+Mikä on puhdas aine?,Puhdas aine sisältää vain yhtä alkuainetta tai yhtä yhdistettä,12,154,1,flashcard
+Mikä on seos?,Seos sisältää useampaa kuin yhtä alkuainetta tai yhdistettä,12,155,1,flashcard
+Mikä on homogeeninen seos?,Homogeenisessa seoksessa aineet ovat samassa faasissa eikä niitä voi erottaa toisistaan,12,156,1,flashcard
+Mikä on heterogeeninen seos?,Heterogeenisessä seoksessa seoksen eri yhdisteiden väillä on rajapinta,12,157,1,flashcard
+Mitä suodattamisessa tehdään?, Erotellaan kiinteä aine nesteestä mekaanisesti suodattimella,13,158,1,flashcard
+Miten kiinteä aine erotellaan nesteestä?,Suodattamalla,13,159,1,flashcard
+"Miten erottaa nesteitä, joilla on eri kiehumispiste?",Tislaamalla,13,160,1,flashcard
+Miten tislaus toimii?,"Tislauksessa nesteseosta kuumennetaan, kunnes toinen neste alkaa haihtua. Eri lämpötiloissa haihtuvat nesteet otetaan talteen.",13,161,1,flashcard
+Miten uutto toimii?,Uutossa eristettävä aine erotetaan seoksesta käyttämällä liuotinta,13,162,1,flashcard
+Miksi erotusmenetelmäksi kahvinkeittoa voitaisiin kutsua?,Uuttamiseksi. Kofeiini ja muut yhdisteet uutetaan vedellä kahvimukiin,13,163,1,flashcard
+Miten liuenneen kiinteän aineen saa takaisin liuoksesta?,Haihduttamalla liuotin pois,13,164,1,flashcard

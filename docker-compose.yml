@@ -1,0 +1,16 @@
+services:
+  asuntoback:
+    command: "flask run --host=0.0.0.0"
+    container_name: koppi
+    environment:
+      - FLASK_APP=/app/backend/main.py
+      - FLASK_DEBUG=1
+      - FLASK_ENV=development
+      - PYTHONUNBUFFERED=1
+    ports:
+        - "5000:5000"
+    hostname: koppi
+    image: "koppi:latest"
+    volumes:
+      - "./backend:/app/backend"
+version: "3.1"

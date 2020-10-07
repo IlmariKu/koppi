@@ -1,0 +1,506 @@
+Answer,Difficulty,QuestionId,QuestionText,TopicId,Type
+"Ihan vitusti, Atomi pt 0!",1,1_0,Atomi on...,1,flashcard
+"Ihan vitusti, Atomi pt 1!",2,1_1,Atomi ei ole...,1,flashcard
+"Ihan vitusti, Atomi pt 2!",3,1_2,Atomi kaltainen on,1,flashcard
+"Ihan vitusti, Atomi pt 3!",4,1_3,Paljonko Atomi painaa?,1,OpenEnded
+"Ihan vitusti, Atomi pt 4!",5,1_4,Montako Atomi saa markalla?,1,OpenEnded
+"Ihan vitusti, Jaksollinen järjestelmä pt 0!",1,2_0,Jaksollinen järjestelmä on...,2,flashcard
+"Ihan vitusti, Jaksollinen järjestelmä pt 1!",2,2_1,Jaksollinen järjestelmä ei ole...,2,flashcard
+"Ihan vitusti, Jaksollinen järjestelmä pt 2!",3,2_2,Jaksollinen järjestelmä kaltainen on,2,flashcard
+"Ihan vitusti, Jaksollinen järjestelmä pt 3!",4,2_3,Paljonko Jaksollinen järjestelmä painaa?,2,OpenEnded
+"Ihan vitusti, Jaksollinen järjestelmä pt 4!",5,2_4,Montako Jaksollinen järjestelmä saa markalla?,2,OpenEnded
+"Ihan vitusti, Ionisidos pt 0!",1,3_0,Ionisidos on...,3,flashcard
+"Ihan vitusti, Ionisidos pt 1!",2,3_1,Ionisidos ei ole...,3,flashcard
+"Ihan vitusti, Ionisidos pt 2!",3,3_2,Ionisidos kaltainen on,3,flashcard
+"Ihan vitusti, Ionisidos pt 3!",4,3_3,Paljonko Ionisidos painaa?,3,OpenEnded
+"Ihan vitusti, Ionisidos pt 4!",5,3_4,Montako Ionisidos saa markalla?,3,OpenEnded
+"Ihan vitusti, Kovalenttinen sidos pt 0!",1,4_0,Kovalenttinen sidos on...,4,flashcard
+"Ihan vitusti, Kovalenttinen sidos pt 1!",2,4_1,Kovalenttinen sidos ei ole...,4,flashcard
+"Ihan vitusti, Kovalenttinen sidos pt 2!",3,4_2,Kovalenttinen sidos kaltainen on,4,flashcard
+"Ihan vitusti, Kovalenttinen sidos pt 3!",4,4_3,Paljonko Kovalenttinen sidos painaa?,4,OpenEnded
+"Ihan vitusti, Kovalenttinen sidos pt 4!",5,4_4,Montako Kovalenttinen sidos saa markalla?,4,OpenEnded
+"Ihan vitusti, Metallisidos pt 0!",1,5_0,Metallisidos on...,5,flashcard
+"Ihan vitusti, Metallisidos pt 1!",2,5_1,Metallisidos ei ole...,5,flashcard
+"Ihan vitusti, Metallisidos pt 2!",3,5_2,Metallisidos kaltainen on,5,flashcard
+"Ihan vitusti, Metallisidos pt 3!",4,5_3,Paljonko Metallisidos painaa?,5,OpenEnded
+"Ihan vitusti, Metallisidos pt 4!",5,5_4,Montako Metallisidos saa markalla?,5,OpenEnded
+"Ihan vitusti, Elektronegatiivisuus pt 0!",1,6_0,Elektronegatiivisuus on...,6,flashcard
+"Ihan vitusti, Elektronegatiivisuus pt 1!",2,6_1,Elektronegatiivisuus ei ole...,6,flashcard
+"Ihan vitusti, Elektronegatiivisuus pt 2!",3,6_2,Elektronegatiivisuus kaltainen on,6,flashcard
+"Ihan vitusti, Elektronegatiivisuus pt 3!",4,6_3,Paljonko Elektronegatiivisuus painaa?,6,OpenEnded
+"Ihan vitusti, Elektronegatiivisuus pt 4!",5,6_4,Montako Elektronegatiivisuus saa markalla?,6,OpenEnded
+"Ihan vitusti, Elektronegatiivisuusarvot pt 0!",1,7_0,Elektronegatiivisuusarvot on...,7,flashcard
+"Ihan vitusti, Elektronegatiivisuusarvot pt 1!",2,7_1,Elektronegatiivisuusarvot ei ole...,7,flashcard
+"Ihan vitusti, Elektronegatiivisuusarvot pt 2!",3,7_2,Elektronegatiivisuusarvot kaltainen on,7,flashcard
+"Ihan vitusti, Elektronegatiivisuusarvot pt 3!",4,7_3,Paljonko Elektronegatiivisuusarvot painaa?,7,OpenEnded
+"Ihan vitusti, Elektronegatiivisuusarvot pt 4!",5,7_4,Montako Elektronegatiivisuusarvot saa markalla?,7,OpenEnded
+"Ihan vitusti, Poolisuus pt 0!",1,8_0,Poolisuus on...,8,flashcard
+"Ihan vitusti, Poolisuus pt 1!",2,8_1,Poolisuus ei ole...,8,flashcard
+"Ihan vitusti, Poolisuus pt 2!",3,8_2,Poolisuus kaltainen on,8,flashcard
+"Ihan vitusti, Poolisuus pt 3!",4,8_3,Paljonko Poolisuus painaa?,8,OpenEnded
+"Ihan vitusti, Poolisuus pt 4!",5,8_4,Montako Poolisuus saa markalla?,8,OpenEnded
+"Ihan vitusti, Heikot sidokset pt 0!",1,9_0,Heikot sidokset on...,9,flashcard
+"Ihan vitusti, Heikot sidokset pt 1!",2,9_1,Heikot sidokset ei ole...,9,flashcard
+"Ihan vitusti, Heikot sidokset pt 2!",3,9_2,Heikot sidokset kaltainen on,9,flashcard
+"Ihan vitusti, Heikot sidokset pt 3!",4,9_3,Paljonko Heikot sidokset painaa?,9,OpenEnded
+"Ihan vitusti, Heikot sidokset pt 4!",5,9_4,Montako Heikot sidokset saa markalla?,9,OpenEnded
+"Ihan vitusti, Dispersiovoima pt 0!",1,10_0,Dispersiovoima on...,10,flashcard
+"Ihan vitusti, Dispersiovoima pt 1!",2,10_1,Dispersiovoima ei ole...,10,flashcard
+"Ihan vitusti, Dispersiovoima pt 2!",3,10_2,Dispersiovoima kaltainen on,10,flashcard
+"Ihan vitusti, Dispersiovoima pt 3!",4,10_3,Paljonko Dispersiovoima painaa?,10,OpenEnded
+"Ihan vitusti, Dispersiovoima pt 4!",5,10_4,Montako Dispersiovoima saa markalla?,10,OpenEnded
+"Ihan vitusti, Liukoisuus pt 0!",1,11_0,Liukoisuus on...,11,flashcard
+"Ihan vitusti, Liukoisuus pt 1!",2,11_1,Liukoisuus ei ole...,11,flashcard
+"Ihan vitusti, Liukoisuus pt 2!",3,11_2,Liukoisuus kaltainen on,11,flashcard
+"Ihan vitusti, Liukoisuus pt 3!",4,11_3,Paljonko Liukoisuus painaa?,11,OpenEnded
+"Ihan vitusti, Liukoisuus pt 4!",5,11_4,Montako Liukoisuus saa markalla?,11,OpenEnded
+"Ihan vitusti, Atomimassa pt 0!",1,12_0,Atomimassa on...,12,flashcard
+"Ihan vitusti, Atomimassa pt 1!",2,12_1,Atomimassa ei ole...,12,flashcard
+"Ihan vitusti, Atomimassa pt 2!",3,12_2,Atomimassa kaltainen on,12,flashcard
+"Ihan vitusti, Atomimassa pt 3!",4,12_3,Paljonko Atomimassa painaa?,12,OpenEnded
+"Ihan vitusti, Atomimassa pt 4!",5,12_4,Montako Atomimassa saa markalla?,12,OpenEnded
+"Ihan vitusti, Suhteellinen atomimassa pt 0!",1,13_0,Suhteellinen atomimassa on...,13,flashcard
+"Ihan vitusti, Suhteellinen atomimassa pt 1!",2,13_1,Suhteellinen atomimassa ei ole...,13,flashcard
+"Ihan vitusti, Suhteellinen atomimassa pt 2!",3,13_2,Suhteellinen atomimassa kaltainen on,13,flashcard
+"Ihan vitusti, Suhteellinen atomimassa pt 3!",4,13_3,Paljonko Suhteellinen atomimassa painaa?,13,OpenEnded
+"Ihan vitusti, Suhteellinen atomimassa pt 4!",5,13_4,Montako Suhteellinen atomimassa saa markalla?,13,OpenEnded
+"Ihan vitusti, Mooli pt 0!",1,14_0,Mooli on...,14,flashcard
+"Ihan vitusti, Mooli pt 1!",2,14_1,Mooli ei ole...,14,flashcard
+"Ihan vitusti, Mooli pt 2!",3,14_2,Mooli kaltainen on,14,flashcard
+"Ihan vitusti, Mooli pt 3!",4,14_3,Paljonko Mooli painaa?,14,OpenEnded
+"Ihan vitusti, Mooli pt 4!",5,14_4,Montako Mooli saa markalla?,14,OpenEnded
+"Ihan vitusti, Ainemäärä, moolimassa ja Avogadron vakio pt 0!",1,15_0,"Ainemäärä, moolimassa ja Avogadron vakio on...",15,flashcard
+"Ihan vitusti, Ainemäärä, moolimassa ja Avogadron vakio pt 1!",2,15_1,"Ainemäärä, moolimassa ja Avogadron vakio ei ole...",15,flashcard
+"Ihan vitusti, Ainemäärä, moolimassa ja Avogadron vakio pt 2!",3,15_2,"Ainemäärä, moolimassa ja Avogadron vakio kaltainen on",15,flashcard
+"Ihan vitusti, Ainemäärä, moolimassa ja Avogadron vakio pt 3!",4,15_3,"Paljonko Ainemäärä, moolimassa ja Avogadron vakio painaa?",15,OpenEnded
+"Ihan vitusti, Ainemäärä, moolimassa ja Avogadron vakio pt 4!",5,15_4,"Montako Ainemäärä, moolimassa ja Avogadron vakio saa markalla?",15,OpenEnded
+"Ihan vitusti, Harjoituksia ainemäärällä pt 0!",1,16_0,Harjoituksia ainemäärällä on...,16,flashcard
+"Ihan vitusti, Harjoituksia ainemäärällä pt 1!",2,16_1,Harjoituksia ainemäärällä ei ole...,16,flashcard
+"Ihan vitusti, Harjoituksia ainemäärällä pt 2!",3,16_2,Harjoituksia ainemäärällä kaltainen on,16,flashcard
+"Ihan vitusti, Harjoituksia ainemäärällä pt 3!",4,16_3,Paljonko Harjoituksia ainemäärällä painaa?,16,OpenEnded
+"Ihan vitusti, Harjoituksia ainemäärällä pt 4!",5,16_4,Montako Harjoituksia ainemäärällä saa markalla?,16,OpenEnded
+"Ihan vitusti, Massa- ja tilavuusprosentti pt 0!",1,17_0,Massa- ja tilavuusprosentti on...,17,flashcard
+"Ihan vitusti, Massa- ja tilavuusprosentti pt 1!",2,17_1,Massa- ja tilavuusprosentti ei ole...,17,flashcard
+"Ihan vitusti, Massa- ja tilavuusprosentti pt 2!",3,17_2,Massa- ja tilavuusprosentti kaltainen on,17,flashcard
+"Ihan vitusti, Massa- ja tilavuusprosentti pt 3!",4,17_3,Paljonko Massa- ja tilavuusprosentti painaa?,17,OpenEnded
+"Ihan vitusti, Massa- ja tilavuusprosentti pt 4!",5,17_4,Montako Massa- ja tilavuusprosentti saa markalla?,17,OpenEnded
+"Ihan vitusti, Konsentraatio pt 0!",1,18_0,Konsentraatio on...,18,flashcard
+"Ihan vitusti, Konsentraatio pt 1!",2,18_1,Konsentraatio ei ole...,18,flashcard
+"Ihan vitusti, Konsentraatio pt 2!",3,18_2,Konsentraatio kaltainen on,18,flashcard
+"Ihan vitusti, Konsentraatio pt 3!",4,18_3,Paljonko Konsentraatio painaa?,18,OpenEnded
+"Ihan vitusti, Konsentraatio pt 4!",5,18_4,Montako Konsentraatio saa markalla?,18,OpenEnded
+"Ihan vitusti, Yhteenvetodemonstraatioita pt 0!",1,19_0,Yhteenvetodemonstraatioita on...,19,flashcard
+"Ihan vitusti, Yhteenvetodemonstraatioita pt 1!",2,19_1,Yhteenvetodemonstraatioita ei ole...,19,flashcard
+"Ihan vitusti, Yhteenvetodemonstraatioita pt 2!",3,19_2,Yhteenvetodemonstraatioita kaltainen on,19,flashcard
+"Ihan vitusti, Yhteenvetodemonstraatioita pt 3!",4,19_3,Paljonko Yhteenvetodemonstraatioita painaa?,19,OpenEnded
+"Ihan vitusti, Yhteenvetodemonstraatioita pt 4!",5,19_4,Montako Yhteenvetodemonstraatioita saa markalla?,19,OpenEnded
+"Ihan vitusti, Kidevesi pt 0!",1,20_0,Kidevesi on...,20,flashcard
+"Ihan vitusti, Kidevesi pt 1!",2,20_1,Kidevesi ei ole...,20,flashcard
+"Ihan vitusti, Kidevesi pt 2!",3,20_2,Kidevesi kaltainen on,20,flashcard
+"Ihan vitusti, Kidevesi pt 3!",4,20_3,Paljonko Kidevesi painaa?,20,OpenEnded
+"Ihan vitusti, Kidevesi pt 4!",5,20_4,Montako Kidevesi saa markalla?,20,OpenEnded
+"Ihan vitusti, Minimienergiaperiaate pt 0!",1,21_0,Minimienergiaperiaate on...,21,flashcard
+"Ihan vitusti, Minimienergiaperiaate pt 1!",2,21_1,Minimienergiaperiaate ei ole...,21,flashcard
+"Ihan vitusti, Minimienergiaperiaate pt 2!",3,21_2,Minimienergiaperiaate kaltainen on,21,flashcard
+"Ihan vitusti, Minimienergiaperiaate pt 3!",4,21_3,Paljonko Minimienergiaperiaate painaa?,21,OpenEnded
+"Ihan vitusti, Minimienergiaperiaate pt 4!",5,21_4,Montako Minimienergiaperiaate saa markalla?,21,OpenEnded
+"Ihan vitusti, Bohrin atomimalli pt 0!",1,22_0,Bohrin atomimalli on...,22,flashcard
+"Ihan vitusti, Bohrin atomimalli pt 1!",2,22_1,Bohrin atomimalli ei ole...,22,flashcard
+"Ihan vitusti, Bohrin atomimalli pt 2!",3,22_2,Bohrin atomimalli kaltainen on,22,flashcard
+"Ihan vitusti, Bohrin atomimalli pt 3!",4,22_3,Paljonko Bohrin atomimalli painaa?,22,OpenEnded
+"Ihan vitusti, Bohrin atomimalli pt 4!",5,22_4,Montako Bohrin atomimalli saa markalla?,22,OpenEnded
+"Ihan vitusti, Kvanttimekaaninen atomimalli pt 0!",1,23_0,Kvanttimekaaninen atomimalli on...,23,flashcard
+"Ihan vitusti, Kvanttimekaaninen atomimalli pt 1!",2,23_1,Kvanttimekaaninen atomimalli ei ole...,23,flashcard
+"Ihan vitusti, Kvanttimekaaninen atomimalli pt 2!",3,23_2,Kvanttimekaaninen atomimalli kaltainen on,23,flashcard
+"Ihan vitusti, Kvanttimekaaninen atomimalli pt 3!",4,23_3,Paljonko Kvanttimekaaninen atomimalli painaa?,23,OpenEnded
+"Ihan vitusti, Kvanttimekaaninen atomimalli pt 4!",5,23_4,Montako Kvanttimekaaninen atomimalli saa markalla?,23,OpenEnded
+"Ihan vitusti, Paulin kieltosääntö & Hundin sääntö pt 0!",1,24_0,Paulin kieltosääntö & Hundin sääntö on...,24,flashcard
+"Ihan vitusti, Paulin kieltosääntö & Hundin sääntö pt 1!",2,24_1,Paulin kieltosääntö & Hundin sääntö ei ole...,24,flashcard
+"Ihan vitusti, Paulin kieltosääntö & Hundin sääntö pt 2!",3,24_2,Paulin kieltosääntö & Hundin sääntö kaltainen on,24,flashcard
+"Ihan vitusti, Paulin kieltosääntö & Hundin sääntö pt 3!",4,24_3,Paljonko Paulin kieltosääntö & Hundin sääntö painaa?,24,OpenEnded
+"Ihan vitusti, Paulin kieltosääntö & Hundin sääntö pt 4!",5,24_4,Montako Paulin kieltosääntö & Hundin sääntö saa markalla?,24,OpenEnded
+"Ihan vitusti, Jaksollinen järjestelmä orbitaalien mukaan pt 0!",1,25_0,Jaksollinen järjestelmä orbitaalien mukaan on...,25,flashcard
+"Ihan vitusti, Jaksollinen järjestelmä orbitaalien mukaan pt 1!",2,25_1,Jaksollinen järjestelmä orbitaalien mukaan ei ole...,25,flashcard
+"Ihan vitusti, Jaksollinen järjestelmä orbitaalien mukaan pt 2!",3,25_2,Jaksollinen järjestelmä orbitaalien mukaan kaltainen on,25,flashcard
+"Ihan vitusti, Jaksollinen järjestelmä orbitaalien mukaan pt 3!",4,25_3,Paljonko Jaksollinen järjestelmä orbitaalien mukaan painaa?,25,OpenEnded
+"Ihan vitusti, Jaksollinen järjestelmä orbitaalien mukaan pt 4!",5,25_4,Montako Jaksollinen järjestelmä orbitaalien mukaan saa markalla?,25,OpenEnded
+"Ihan vitusti, Atomin koko pt 0!",1,26_0,Atomin koko on...,26,flashcard
+"Ihan vitusti, Atomin koko pt 1!",2,26_1,Atomin koko ei ole...,26,flashcard
+"Ihan vitusti, Atomin koko pt 2!",3,26_2,Atomin koko kaltainen on,26,flashcard
+"Ihan vitusti, Atomin koko pt 3!",4,26_3,Paljonko Atomin koko painaa?,26,OpenEnded
+"Ihan vitusti, Atomin koko pt 4!",5,26_4,Montako Atomin koko saa markalla?,26,OpenEnded
+"Ihan vitusti, Ionisaatioenergia (IE) pt 0!",1,27_0,Ionisaatioenergia (IE) on...,27,flashcard
+"Ihan vitusti, Ionisaatioenergia (IE) pt 1!",2,27_1,Ionisaatioenergia (IE) ei ole...,27,flashcard
+"Ihan vitusti, Ionisaatioenergia (IE) pt 2!",3,27_2,Ionisaatioenergia (IE) kaltainen on,27,flashcard
+"Ihan vitusti, Ionisaatioenergia (IE) pt 3!",4,27_3,Paljonko Ionisaatioenergia (IE) painaa?,27,OpenEnded
+"Ihan vitusti, Ionisaatioenergia (IE) pt 4!",5,27_4,Montako Ionisaatioenergia (IE) saa markalla?,27,OpenEnded
+"Ihan vitusti, σ- ja π-sidokset pt 0!",1,28_0,σ- ja π-sidokset on...,28,flashcard
+"Ihan vitusti, σ- ja π-sidokset pt 1!",2,28_1,σ- ja π-sidokset ei ole...,28,flashcard
+"Ihan vitusti, σ- ja π-sidokset pt 2!",3,28_2,σ- ja π-sidokset kaltainen on,28,flashcard
+"Ihan vitusti, σ- ja π-sidokset pt 3!",4,28_3,Paljonko σ- ja π-sidokset painaa?,28,OpenEnded
+"Ihan vitusti, σ- ja π-sidokset pt 4!",5,28_4,Montako σ- ja π-sidokset saa markalla?,28,OpenEnded
+"Ihan vitusti, Hybridiorbitaalit pt 0!",1,29_0,Hybridiorbitaalit on...,29,flashcard
+"Ihan vitusti, Hybridiorbitaalit pt 1!",2,29_1,Hybridiorbitaalit ei ole...,29,flashcard
+"Ihan vitusti, Hybridiorbitaalit pt 2!",3,29_2,Hybridiorbitaalit kaltainen on,29,flashcard
+"Ihan vitusti, Hybridiorbitaalit pt 3!",4,29_3,Paljonko Hybridiorbitaalit painaa?,29,OpenEnded
+"Ihan vitusti, Hybridiorbitaalit pt 4!",5,29_4,Montako Hybridiorbitaalit saa markalla?,29,OpenEnded
+"Ihan vitusti, Sp2- ja sp-hybridiorbitaalit pt 0!",1,30_0,Sp2- ja sp-hybridiorbitaalit on...,30,flashcard
+"Ihan vitusti, Sp2- ja sp-hybridiorbitaalit pt 1!",2,30_1,Sp2- ja sp-hybridiorbitaalit ei ole...,30,flashcard
+"Ihan vitusti, Sp2- ja sp-hybridiorbitaalit pt 2!",3,30_2,Sp2- ja sp-hybridiorbitaalit kaltainen on,30,flashcard
+"Ihan vitusti, Sp2- ja sp-hybridiorbitaalit pt 3!",4,30_3,Paljonko Sp2- ja sp-hybridiorbitaalit painaa?,30,OpenEnded
+"Ihan vitusti, Sp2- ja sp-hybridiorbitaalit pt 4!",5,30_4,Montako Sp2- ja sp-hybridiorbitaalit saa markalla?,30,OpenEnded
+"Ihan vitusti, Hybridiorbitaalit ja sidospituudet pt 0!",1,31_0,Hybridiorbitaalit ja sidospituudet on...,31,flashcard
+"Ihan vitusti, Hybridiorbitaalit ja sidospituudet pt 1!",2,31_1,Hybridiorbitaalit ja sidospituudet ei ole...,31,flashcard
+"Ihan vitusti, Hybridiorbitaalit ja sidospituudet pt 2!",3,31_2,Hybridiorbitaalit ja sidospituudet kaltainen on,31,flashcard
+"Ihan vitusti, Hybridiorbitaalit ja sidospituudet pt 3!",4,31_3,Paljonko Hybridiorbitaalit ja sidospituudet painaa?,31,OpenEnded
+"Ihan vitusti, Hybridiorbitaalit ja sidospituudet pt 4!",5,31_4,Montako Hybridiorbitaalit ja sidospituudet saa markalla?,31,OpenEnded
+"Ihan vitusti, Kiinteiden aineiden rakenteet pt 0!",1,32_0,Kiinteiden aineiden rakenteet on...,32,flashcard
+"Ihan vitusti, Kiinteiden aineiden rakenteet pt 1!",2,32_1,Kiinteiden aineiden rakenteet ei ole...,32,flashcard
+"Ihan vitusti, Kiinteiden aineiden rakenteet pt 2!",3,32_2,Kiinteiden aineiden rakenteet kaltainen on,32,flashcard
+"Ihan vitusti, Kiinteiden aineiden rakenteet pt 3!",4,32_3,Paljonko Kiinteiden aineiden rakenteet painaa?,32,OpenEnded
+"Ihan vitusti, Kiinteiden aineiden rakenteet pt 4!",5,32_4,Montako Kiinteiden aineiden rakenteet saa markalla?,32,OpenEnded
+"Ihan vitusti, Hilatyyppien ominaisuudet pt 0!",1,33_0,Hilatyyppien ominaisuudet on...,33,flashcard
+"Ihan vitusti, Hilatyyppien ominaisuudet pt 1!",2,33_1,Hilatyyppien ominaisuudet ei ole...,33,flashcard
+"Ihan vitusti, Hilatyyppien ominaisuudet pt 2!",3,33_2,Hilatyyppien ominaisuudet kaltainen on,33,flashcard
+"Ihan vitusti, Hilatyyppien ominaisuudet pt 3!",4,33_3,Paljonko Hilatyyppien ominaisuudet painaa?,33,OpenEnded
+"Ihan vitusti, Hilatyyppien ominaisuudet pt 4!",5,33_4,Montako Hilatyyppien ominaisuudet saa markalla?,33,OpenEnded
+"Ihan vitusti, Rakenneisomeria pt 0!",1,34_0,Rakenneisomeria on...,34,flashcard
+"Ihan vitusti, Rakenneisomeria pt 1!",2,34_1,Rakenneisomeria ei ole...,34,flashcard
+"Ihan vitusti, Rakenneisomeria pt 2!",3,34_2,Rakenneisomeria kaltainen on,34,flashcard
+"Ihan vitusti, Rakenneisomeria pt 3!",4,34_3,Paljonko Rakenneisomeria painaa?,34,OpenEnded
+"Ihan vitusti, Rakenneisomeria pt 4!",5,34_4,Montako Rakenneisomeria saa markalla?,34,OpenEnded
+"Ihan vitusti, Konformaatioisomeria pt 0!",1,35_0,Konformaatioisomeria on...,35,flashcard
+"Ihan vitusti, Konformaatioisomeria pt 1!",2,35_1,Konformaatioisomeria ei ole...,35,flashcard
+"Ihan vitusti, Konformaatioisomeria pt 2!",3,35_2,Konformaatioisomeria kaltainen on,35,flashcard
+"Ihan vitusti, Konformaatioisomeria pt 3!",4,35_3,Paljonko Konformaatioisomeria painaa?,35,OpenEnded
+"Ihan vitusti, Konformaatioisomeria pt 4!",5,35_4,Montako Konformaatioisomeria saa markalla?,35,OpenEnded
+"Ihan vitusti, Cis-trans-isomeria pt 0!",1,36_0,Cis-trans-isomeria on...,36,flashcard
+"Ihan vitusti, Cis-trans-isomeria pt 1!",2,36_1,Cis-trans-isomeria ei ole...,36,flashcard
+"Ihan vitusti, Cis-trans-isomeria pt 2!",3,36_2,Cis-trans-isomeria kaltainen on,36,flashcard
+"Ihan vitusti, Cis-trans-isomeria pt 3!",4,36_3,Paljonko Cis-trans-isomeria painaa?,36,OpenEnded
+"Ihan vitusti, Cis-trans-isomeria pt 4!",5,36_4,Montako Cis-trans-isomeria saa markalla?,36,OpenEnded
+"Ihan vitusti, Transrasvat pt 0!",1,37_0,Transrasvat on...,37,flashcard
+"Ihan vitusti, Transrasvat pt 1!",2,37_1,Transrasvat ei ole...,37,flashcard
+"Ihan vitusti, Transrasvat pt 2!",3,37_2,Transrasvat kaltainen on,37,flashcard
+"Ihan vitusti, Transrasvat pt 3!",4,37_3,Paljonko Transrasvat painaa?,37,OpenEnded
+"Ihan vitusti, Transrasvat pt 4!",5,37_4,Montako Transrasvat saa markalla?,37,OpenEnded
+"Ihan vitusti, Optinen isomeria pt 0!",1,38_0,Optinen isomeria on...,38,flashcard
+"Ihan vitusti, Optinen isomeria pt 1!",2,38_1,Optinen isomeria ei ole...,38,flashcard
+"Ihan vitusti, Optinen isomeria pt 2!",3,38_2,Optinen isomeria kaltainen on,38,flashcard
+"Ihan vitusti, Optinen isomeria pt 3!",4,38_3,Paljonko Optinen isomeria painaa?,38,OpenEnded
+"Ihan vitusti, Optinen isomeria pt 4!",5,38_4,Montako Optinen isomeria saa markalla?,38,OpenEnded
+"Ihan vitusti, Aminohapot (rakenne) pt 0!",1,39_0,Aminohapot (rakenne) on...,39,flashcard
+"Ihan vitusti, Aminohapot (rakenne) pt 1!",2,39_1,Aminohapot (rakenne) ei ole...,39,flashcard
+"Ihan vitusti, Aminohapot (rakenne) pt 2!",3,39_2,Aminohapot (rakenne) kaltainen on,39,flashcard
+"Ihan vitusti, Aminohapot (rakenne) pt 3!",4,39_3,Paljonko Aminohapot (rakenne) painaa?,39,OpenEnded
+"Ihan vitusti, Aminohapot (rakenne) pt 4!",5,39_4,Montako Aminohapot (rakenne) saa markalla?,39,OpenEnded
+"Ihan vitusti, Proteiinit (rakenne) pt 0!",1,40_0,Proteiinit (rakenne) on...,40,flashcard
+"Ihan vitusti, Proteiinit (rakenne) pt 1!",2,40_1,Proteiinit (rakenne) ei ole...,40,flashcard
+"Ihan vitusti, Proteiinit (rakenne) pt 2!",3,40_2,Proteiinit (rakenne) kaltainen on,40,flashcard
+"Ihan vitusti, Proteiinit (rakenne) pt 3!",4,40_3,Paljonko Proteiinit (rakenne) painaa?,40,OpenEnded
+"Ihan vitusti, Proteiinit (rakenne) pt 4!",5,40_4,Montako Proteiinit (rakenne) saa markalla?,40,OpenEnded
+"Ihan vitusti, Entsyymit pt 0!",1,41_0,Entsyymit on...,41,flashcard
+"Ihan vitusti, Entsyymit pt 1!",2,41_1,Entsyymit ei ole...,41,flashcard
+"Ihan vitusti, Entsyymit pt 2!",3,41_2,Entsyymit kaltainen on,41,flashcard
+"Ihan vitusti, Entsyymit pt 3!",4,41_3,Paljonko Entsyymit painaa?,41,OpenEnded
+"Ihan vitusti, Entsyymit pt 4!",5,41_4,Montako Entsyymit saa markalla?,41,OpenEnded
+"Ihan vitusti, Stoikiometria pt 0!",1,42_0,Stoikiometria on...,42,flashcard
+"Ihan vitusti, Stoikiometria pt 1!",2,42_1,Stoikiometria ei ole...,42,flashcard
+"Ihan vitusti, Stoikiometria pt 2!",3,42_2,Stoikiometria kaltainen on,42,flashcard
+"Ihan vitusti, Stoikiometria pt 3!",4,42_3,Paljonko Stoikiometria painaa?,42,OpenEnded
+"Ihan vitusti, Stoikiometria pt 4!",5,42_4,Montako Stoikiometria saa markalla?,42,OpenEnded
+"Ihan vitusti, Rajoittava lähtöaine pt 0!",1,43_0,Rajoittava lähtöaine on...,43,flashcard
+"Ihan vitusti, Rajoittava lähtöaine pt 1!",2,43_1,Rajoittava lähtöaine ei ole...,43,flashcard
+"Ihan vitusti, Rajoittava lähtöaine pt 2!",3,43_2,Rajoittava lähtöaine kaltainen on,43,flashcard
+"Ihan vitusti, Rajoittava lähtöaine pt 3!",4,43_3,Paljonko Rajoittava lähtöaine painaa?,43,OpenEnded
+"Ihan vitusti, Rajoittava lähtöaine pt 4!",5,43_4,Montako Rajoittava lähtöaine saa markalla?,43,OpenEnded
+"Ihan vitusti, Seoslasku pt 0!",1,44_0,Seoslasku on...,44,flashcard
+"Ihan vitusti, Seoslasku pt 1!",2,44_1,Seoslasku ei ole...,44,flashcard
+"Ihan vitusti, Seoslasku pt 2!",3,44_2,Seoslasku kaltainen on,44,flashcard
+"Ihan vitusti, Seoslasku pt 3!",4,44_3,Paljonko Seoslasku painaa?,44,OpenEnded
+"Ihan vitusti, Seoslasku pt 4!",5,44_4,Montako Seoslasku saa markalla?,44,OpenEnded
+"Ihan vitusti, Avogadron laki pt 0!",1,45_0,Avogadron laki on...,45,flashcard
+"Ihan vitusti, Avogadron laki pt 1!",2,45_1,Avogadron laki ei ole...,45,flashcard
+"Ihan vitusti, Avogadron laki pt 2!",3,45_2,Avogadron laki kaltainen on,45,flashcard
+"Ihan vitusti, Avogadron laki pt 3!",4,45_3,Paljonko Avogadron laki painaa?,45,OpenEnded
+"Ihan vitusti, Avogadron laki pt 4!",5,45_4,Montako Avogadron laki saa markalla?,45,OpenEnded
+"Ihan vitusti, Moolitilavuus pt 0!",1,46_0,Moolitilavuus on...,46,flashcard
+"Ihan vitusti, Moolitilavuus pt 1!",2,46_1,Moolitilavuus ei ole...,46,flashcard
+"Ihan vitusti, Moolitilavuus pt 2!",3,46_2,Moolitilavuus kaltainen on,46,flashcard
+"Ihan vitusti, Moolitilavuus pt 3!",4,46_3,Paljonko Moolitilavuus painaa?,46,OpenEnded
+"Ihan vitusti, Moolitilavuus pt 4!",5,46_4,Montako Moolitilavuus saa markalla?,46,OpenEnded
+"Ihan vitusti, Kaasujen tilayhtälö pt 0!",1,47_0,Kaasujen tilayhtälö on...,47,flashcard
+"Ihan vitusti, Kaasujen tilayhtälö pt 1!",2,47_1,Kaasujen tilayhtälö ei ole...,47,flashcard
+"Ihan vitusti, Kaasujen tilayhtälö pt 2!",3,47_2,Kaasujen tilayhtälö kaltainen on,47,flashcard
+"Ihan vitusti, Kaasujen tilayhtälö pt 3!",4,47_3,Paljonko Kaasujen tilayhtälö painaa?,47,OpenEnded
+"Ihan vitusti, Kaasujen tilayhtälö pt 4!",5,47_4,Montako Kaasujen tilayhtälö saa markalla?,47,OpenEnded
+"Ihan vitusti, Tiheys pt 0!",1,48_0,Tiheys on...,48,flashcard
+"Ihan vitusti, Tiheys pt 1!",2,48_1,Tiheys ei ole...,48,flashcard
+"Ihan vitusti, Tiheys pt 2!",3,48_2,Tiheys kaltainen on,48,flashcard
+"Ihan vitusti, Tiheys pt 3!",4,48_3,Paljonko Tiheys painaa?,48,OpenEnded
+"Ihan vitusti, Tiheys pt 4!",5,48_4,Montako Tiheys saa markalla?,48,OpenEnded
+"Ihan vitusti, Reaktiosarja pt 0!",1,49_0,Reaktiosarja on...,49,flashcard
+"Ihan vitusti, Reaktiosarja pt 1!",2,49_1,Reaktiosarja ei ole...,49,flashcard
+"Ihan vitusti, Reaktiosarja pt 2!",3,49_2,Reaktiosarja kaltainen on,49,flashcard
+"Ihan vitusti, Reaktiosarja pt 3!",4,49_3,Paljonko Reaktiosarja painaa?,49,OpenEnded
+"Ihan vitusti, Reaktiosarja pt 4!",5,49_4,Montako Reaktiosarja saa markalla?,49,OpenEnded
+"Ihan vitusti, Tislaus & kromatografia pt 0!",1,50_0,Tislaus & kromatografia on...,50,flashcard
+"Ihan vitusti, Tislaus & kromatografia pt 1!",2,50_1,Tislaus & kromatografia ei ole...,50,flashcard
+"Ihan vitusti, Tislaus & kromatografia pt 2!",3,50_2,Tislaus & kromatografia kaltainen on,50,flashcard
+"Ihan vitusti, Tislaus & kromatografia pt 3!",4,50_3,Paljonko Tislaus & kromatografia painaa?,50,OpenEnded
+"Ihan vitusti, Tislaus & kromatografia pt 4!",5,50_4,Montako Tislaus & kromatografia saa markalla?,50,OpenEnded
+"Ihan vitusti, Reaktioyhtälön tasapainottaminen pt 0!",1,51_0,Reaktioyhtälön tasapainottaminen on...,51,flashcard
+"Ihan vitusti, Reaktioyhtälön tasapainottaminen pt 1!",2,51_1,Reaktioyhtälön tasapainottaminen ei ole...,51,flashcard
+"Ihan vitusti, Reaktioyhtälön tasapainottaminen pt 2!",3,51_2,Reaktioyhtälön tasapainottaminen kaltainen on,51,flashcard
+"Ihan vitusti, Reaktioyhtälön tasapainottaminen pt 3!",4,51_3,Paljonko Reaktioyhtälön tasapainottaminen painaa?,51,OpenEnded
+"Ihan vitusti, Reaktioyhtälön tasapainottaminen pt 4!",5,51_4,Montako Reaktioyhtälön tasapainottaminen saa markalla?,51,OpenEnded
+"Ihan vitusti, Yhteyttäminen pt 0!",1,52_0,Yhteyttäminen on...,52,flashcard
+"Ihan vitusti, Yhteyttäminen pt 1!",2,52_1,Yhteyttäminen ei ole...,52,flashcard
+"Ihan vitusti, Yhteyttäminen pt 2!",3,52_2,Yhteyttäminen kaltainen on,52,flashcard
+"Ihan vitusti, Yhteyttäminen pt 3!",4,52_3,Paljonko Yhteyttäminen painaa?,52,OpenEnded
+"Ihan vitusti, Yhteyttäminen pt 4!",5,52_4,Montako Yhteyttäminen saa markalla?,52,OpenEnded
+"Ihan vitusti, Suhdekaava pt 0!",1,53_0,Suhdekaava on...,53,flashcard
+"Ihan vitusti, Suhdekaava pt 1!",2,53_1,Suhdekaava ei ole...,53,flashcard
+"Ihan vitusti, Suhdekaava pt 2!",3,53_2,Suhdekaava kaltainen on,53,flashcard
+"Ihan vitusti, Suhdekaava pt 3!",4,53_3,Paljonko Suhdekaava painaa?,53,OpenEnded
+"Ihan vitusti, Suhdekaava pt 4!",5,53_4,Montako Suhdekaava saa markalla?,53,OpenEnded
+"Ihan vitusti, Entalpia pt 0!",1,54_0,Entalpia on...,54,flashcard
+"Ihan vitusti, Entalpia pt 1!",2,54_1,Entalpia ei ole...,54,flashcard
+"Ihan vitusti, Entalpia pt 2!",3,54_2,Entalpia kaltainen on,54,flashcard
+"Ihan vitusti, Entalpia pt 3!",4,54_3,Paljonko Entalpia painaa?,54,OpenEnded
+"Ihan vitusti, Entalpia pt 4!",5,54_4,Montako Entalpia saa markalla?,54,OpenEnded
+"Ihan vitusti, Perusmuodostumislämpö (entalpia) pt 0!",1,55_0,Perusmuodostumislämpö (entalpia) on...,55,flashcard
+"Ihan vitusti, Perusmuodostumislämpö (entalpia) pt 1!",2,55_1,Perusmuodostumislämpö (entalpia) ei ole...,55,flashcard
+"Ihan vitusti, Perusmuodostumislämpö (entalpia) pt 2!",3,55_2,Perusmuodostumislämpö (entalpia) kaltainen on,55,flashcard
+"Ihan vitusti, Perusmuodostumislämpö (entalpia) pt 3!",4,55_3,Paljonko Perusmuodostumislämpö (entalpia) painaa?,55,OpenEnded
+"Ihan vitusti, Perusmuodostumislämpö (entalpia) pt 4!",5,55_4,Montako Perusmuodostumislämpö (entalpia) saa markalla?,55,OpenEnded
+"Ihan vitusti, Hessin laki pt 0!",1,56_0,Hessin laki on...,56,flashcard
+"Ihan vitusti, Hessin laki pt 1!",2,56_1,Hessin laki ei ole...,56,flashcard
+"Ihan vitusti, Hessin laki pt 2!",3,56_2,Hessin laki kaltainen on,56,flashcard
+"Ihan vitusti, Hessin laki pt 3!",4,56_3,Paljonko Hessin laki painaa?,56,OpenEnded
+"Ihan vitusti, Hessin laki pt 4!",5,56_4,Montako Hessin laki saa markalla?,56,OpenEnded
+"Ihan vitusti, Sidosenergia (entalpia) pt 0!",1,57_0,Sidosenergia (entalpia) on...,57,flashcard
+"Ihan vitusti, Sidosenergia (entalpia) pt 1!",2,57_1,Sidosenergia (entalpia) ei ole...,57,flashcard
+"Ihan vitusti, Sidosenergia (entalpia) pt 2!",3,57_2,Sidosenergia (entalpia) kaltainen on,57,flashcard
+"Ihan vitusti, Sidosenergia (entalpia) pt 3!",4,57_3,Paljonko Sidosenergia (entalpia) painaa?,57,OpenEnded
+"Ihan vitusti, Sidosenergia (entalpia) pt 4!",5,57_4,Montako Sidosenergia (entalpia) saa markalla?,57,OpenEnded
+"Ihan vitusti, Entropia pt 0!",1,58_0,Entropia on...,58,flashcard
+"Ihan vitusti, Entropia pt 1!",2,58_1,Entropia ei ole...,58,flashcard
+"Ihan vitusti, Entropia pt 2!",3,58_2,Entropia kaltainen on,58,flashcard
+"Ihan vitusti, Entropia pt 3!",4,58_3,Paljonko Entropia painaa?,58,OpenEnded
+"Ihan vitusti, Entropia pt 4!",5,58_4,Montako Entropia saa markalla?,58,OpenEnded
+"Ihan vitusti, Gibbsin energia pt 0!",1,59_0,Gibbsin energia on...,59,flashcard
+"Ihan vitusti, Gibbsin energia pt 1!",2,59_1,Gibbsin energia ei ole...,59,flashcard
+"Ihan vitusti, Gibbsin energia pt 2!",3,59_2,Gibbsin energia kaltainen on,59,flashcard
+"Ihan vitusti, Gibbsin energia pt 3!",4,59_3,Paljonko Gibbsin energia painaa?,59,OpenEnded
+"Ihan vitusti, Gibbsin energia pt 4!",5,59_4,Montako Gibbsin energia saa markalla?,59,OpenEnded
+"Ihan vitusti, Aktivaatioenergia pt 0!",1,60_0,Aktivaatioenergia on...,60,flashcard
+"Ihan vitusti, Aktivaatioenergia pt 1!",2,60_1,Aktivaatioenergia ei ole...,60,flashcard
+"Ihan vitusti, Aktivaatioenergia pt 2!",3,60_2,Aktivaatioenergia kaltainen on,60,flashcard
+"Ihan vitusti, Aktivaatioenergia pt 3!",4,60_3,Paljonko Aktivaatioenergia painaa?,60,OpenEnded
+"Ihan vitusti, Aktivaatioenergia pt 4!",5,60_4,Montako Aktivaatioenergia saa markalla?,60,OpenEnded
+"Ihan vitusti, Hapetusluku pt 0!",1,61_0,Hapetusluku on...,61,flashcard
+"Ihan vitusti, Hapetusluku pt 1!",2,61_1,Hapetusluku ei ole...,61,flashcard
+"Ihan vitusti, Hapetusluku pt 2!",3,61_2,Hapetusluku kaltainen on,61,flashcard
+"Ihan vitusti, Hapetusluku pt 3!",4,61_3,Paljonko Hapetusluku painaa?,61,OpenEnded
+"Ihan vitusti, Hapetusluku pt 4!",5,61_4,Montako Hapetusluku saa markalla?,61,OpenEnded
+"Ihan vitusti, Harjoituksia hapetusluvuilla pt 0!",1,62_0,Harjoituksia hapetusluvuilla on...,62,flashcard
+"Ihan vitusti, Harjoituksia hapetusluvuilla pt 1!",2,62_1,Harjoituksia hapetusluvuilla ei ole...,62,flashcard
+"Ihan vitusti, Harjoituksia hapetusluvuilla pt 2!",3,62_2,Harjoituksia hapetusluvuilla kaltainen on,62,flashcard
+"Ihan vitusti, Harjoituksia hapetusluvuilla pt 3!",4,62_3,Paljonko Harjoituksia hapetusluvuilla painaa?,62,OpenEnded
+"Ihan vitusti, Harjoituksia hapetusluvuilla pt 4!",5,62_4,Montako Harjoituksia hapetusluvuilla saa markalla?,62,OpenEnded
+"Ihan vitusti, Saostuminen ja hajoaminen pt 0!",1,63_0,Saostuminen ja hajoaminen on...,63,flashcard
+"Ihan vitusti, Saostuminen ja hajoaminen pt 1!",2,63_1,Saostuminen ja hajoaminen ei ole...,63,flashcard
+"Ihan vitusti, Saostuminen ja hajoaminen pt 2!",3,63_2,Saostuminen ja hajoaminen kaltainen on,63,flashcard
+"Ihan vitusti, Saostuminen ja hajoaminen pt 3!",4,63_3,Paljonko Saostuminen ja hajoaminen painaa?,63,OpenEnded
+"Ihan vitusti, Saostuminen ja hajoaminen pt 4!",5,63_4,Montako Saostuminen ja hajoaminen saa markalla?,63,OpenEnded
+"Ihan vitusti, Kompleksinmuodostusreaktio pt 0!",1,64_0,Kompleksinmuodostusreaktio on...,64,flashcard
+"Ihan vitusti, Kompleksinmuodostusreaktio pt 1!",2,64_1,Kompleksinmuodostusreaktio ei ole...,64,flashcard
+"Ihan vitusti, Kompleksinmuodostusreaktio pt 2!",3,64_2,Kompleksinmuodostusreaktio kaltainen on,64,flashcard
+"Ihan vitusti, Kompleksinmuodostusreaktio pt 3!",4,64_3,Paljonko Kompleksinmuodostusreaktio painaa?,64,OpenEnded
+"Ihan vitusti, Kompleksinmuodostusreaktio pt 4!",5,64_4,Montako Kompleksinmuodostusreaktio saa markalla?,64,OpenEnded
+"Ihan vitusti, Liittymisreaktio (additioreaktio) pt 0!",1,65_0,Liittymisreaktio (additioreaktio) on...,65,flashcard
+"Ihan vitusti, Liittymisreaktio (additioreaktio) pt 1!",2,65_1,Liittymisreaktio (additioreaktio) ei ole...,65,flashcard
+"Ihan vitusti, Liittymisreaktio (additioreaktio) pt 2!",3,65_2,Liittymisreaktio (additioreaktio) kaltainen on,65,flashcard
+"Ihan vitusti, Liittymisreaktio (additioreaktio) pt 3!",4,65_3,Paljonko Liittymisreaktio (additioreaktio) painaa?,65,OpenEnded
+"Ihan vitusti, Liittymisreaktio (additioreaktio) pt 4!",5,65_4,Montako Liittymisreaktio (additioreaktio) saa markalla?,65,OpenEnded
+"Ihan vitusti, Korvautumisreaktio (substituutioreaktio) pt 0!",1,66_0,Korvautumisreaktio (substituutioreaktio) on...,66,flashcard
+"Ihan vitusti, Korvautumisreaktio (substituutioreaktio) pt 1!",2,66_1,Korvautumisreaktio (substituutioreaktio) ei ole...,66,flashcard
+"Ihan vitusti, Korvautumisreaktio (substituutioreaktio) pt 2!",3,66_2,Korvautumisreaktio (substituutioreaktio) kaltainen on,66,flashcard
+"Ihan vitusti, Korvautumisreaktio (substituutioreaktio) pt 3!",4,66_3,Paljonko Korvautumisreaktio (substituutioreaktio) painaa?,66,OpenEnded
+"Ihan vitusti, Korvautumisreaktio (substituutioreaktio) pt 4!",5,66_4,Montako Korvautumisreaktio (substituutioreaktio) saa markalla?,66,OpenEnded
+"Ihan vitusti, Hapettuminen (org. kemia) pt 0!",1,67_0,Hapettuminen (org. kemia) on...,67,flashcard
+"Ihan vitusti, Hapettuminen (org. kemia) pt 1!",2,67_1,Hapettuminen (org. kemia) ei ole...,67,flashcard
+"Ihan vitusti, Hapettuminen (org. kemia) pt 2!",3,67_2,Hapettuminen (org. kemia) kaltainen on,67,flashcard
+"Ihan vitusti, Hapettuminen (org. kemia) pt 3!",4,67_3,Paljonko Hapettuminen (org. kemia) painaa?,67,OpenEnded
+"Ihan vitusti, Hapettuminen (org. kemia) pt 4!",5,67_4,Montako Hapettuminen (org. kemia) saa markalla?,67,OpenEnded
+"Ihan vitusti, Happo-emäsreaktiot (org. kemia) pt 0!",1,68_0,Happo-emäsreaktiot (org. kemia) on...,68,flashcard
+"Ihan vitusti, Happo-emäsreaktiot (org. kemia) pt 1!",2,68_1,Happo-emäsreaktiot (org. kemia) ei ole...,68,flashcard
+"Ihan vitusti, Happo-emäsreaktiot (org. kemia) pt 2!",3,68_2,Happo-emäsreaktiot (org. kemia) kaltainen on,68,flashcard
+"Ihan vitusti, Happo-emäsreaktiot (org. kemia) pt 3!",4,68_3,Paljonko Happo-emäsreaktiot (org. kemia) painaa?,68,OpenEnded
+"Ihan vitusti, Happo-emäsreaktiot (org. kemia) pt 4!",5,68_4,Montako Happo-emäsreaktiot (org. kemia) saa markalla?,68,OpenEnded
+"Ihan vitusti, Sähkökemia pt 0!",1,69_0,Sähkökemia on...,69,flashcard
+"Ihan vitusti, Sähkökemia pt 1!",2,69_1,Sähkökemia ei ole...,69,flashcard
+"Ihan vitusti, Sähkökemia pt 2!",3,69_2,Sähkökemia kaltainen on,69,flashcard
+"Ihan vitusti, Sähkökemia pt 3!",4,69_3,Paljonko Sähkökemia painaa?,69,OpenEnded
+"Ihan vitusti, Sähkökemia pt 4!",5,69_4,Montako Sähkökemia saa markalla?,69,OpenEnded
+"Ihan vitusti, Kennokaaviot pt 0!",1,70_0,Kennokaaviot on...,70,flashcard
+"Ihan vitusti, Kennokaaviot pt 1!",2,70_1,Kennokaaviot ei ole...,70,flashcard
+"Ihan vitusti, Kennokaaviot pt 2!",3,70_2,Kennokaaviot kaltainen on,70,flashcard
+"Ihan vitusti, Kennokaaviot pt 3!",4,70_3,Paljonko Kennokaaviot painaa?,70,OpenEnded
+"Ihan vitusti, Kennokaaviot pt 4!",5,70_4,Montako Kennokaaviot saa markalla?,70,OpenEnded
+"Ihan vitusti, Normaalipotentiaali pt 0!",1,71_0,Normaalipotentiaali on...,71,flashcard
+"Ihan vitusti, Normaalipotentiaali pt 1!",2,71_1,Normaalipotentiaali ei ole...,71,flashcard
+"Ihan vitusti, Normaalipotentiaali pt 2!",3,71_2,Normaalipotentiaali kaltainen on,71,flashcard
+"Ihan vitusti, Normaalipotentiaali pt 3!",4,71_3,Paljonko Normaalipotentiaali painaa?,71,OpenEnded
+"Ihan vitusti, Normaalipotentiaali pt 4!",5,71_4,Montako Normaalipotentiaali saa markalla?,71,OpenEnded
+"Ihan vitusti, Jalometallien hapettuminen pt 0!",1,72_0,Jalometallien hapettuminen on...,72,flashcard
+"Ihan vitusti, Jalometallien hapettuminen pt 1!",2,72_1,Jalometallien hapettuminen ei ole...,72,flashcard
+"Ihan vitusti, Jalometallien hapettuminen pt 2!",3,72_2,Jalometallien hapettuminen kaltainen on,72,flashcard
+"Ihan vitusti, Jalometallien hapettuminen pt 3!",4,72_3,Paljonko Jalometallien hapettuminen painaa?,72,OpenEnded
+"Ihan vitusti, Jalometallien hapettuminen pt 4!",5,72_4,Montako Jalometallien hapettuminen saa markalla?,72,OpenEnded
+"Ihan vitusti, Ruostuminen pt 0!",1,73_0,Ruostuminen on...,73,flashcard
+"Ihan vitusti, Ruostuminen pt 1!",2,73_1,Ruostuminen ei ole...,73,flashcard
+"Ihan vitusti, Ruostuminen pt 2!",3,73_2,Ruostuminen kaltainen on,73,flashcard
+"Ihan vitusti, Ruostuminen pt 3!",4,73_3,Paljonko Ruostuminen painaa?,73,OpenEnded
+"Ihan vitusti, Ruostuminen pt 4!",5,73_4,Montako Ruostuminen saa markalla?,73,OpenEnded
+"Ihan vitusti, Elektrolyysi pt 0!",1,74_0,Elektrolyysi on...,74,flashcard
+"Ihan vitusti, Elektrolyysi pt 1!",2,74_1,Elektrolyysi ei ole...,74,flashcard
+"Ihan vitusti, Elektrolyysi pt 2!",3,74_2,Elektrolyysi kaltainen on,74,flashcard
+"Ihan vitusti, Elektrolyysi pt 3!",4,74_3,Paljonko Elektrolyysi painaa?,74,OpenEnded
+"Ihan vitusti, Elektrolyysi pt 4!",5,74_4,Montako Elektrolyysi saa markalla?,74,OpenEnded
+"Ihan vitusti, Veden elektrolyysi pt 0!",1,75_0,Veden elektrolyysi on...,75,flashcard
+"Ihan vitusti, Veden elektrolyysi pt 1!",2,75_1,Veden elektrolyysi ei ole...,75,flashcard
+"Ihan vitusti, Veden elektrolyysi pt 2!",3,75_2,Veden elektrolyysi kaltainen on,75,flashcard
+"Ihan vitusti, Veden elektrolyysi pt 3!",4,75_3,Paljonko Veden elektrolyysi painaa?,75,OpenEnded
+"Ihan vitusti, Veden elektrolyysi pt 4!",5,75_4,Montako Veden elektrolyysi saa markalla?,75,OpenEnded
+"Ihan vitusti, Elektrolyysilasku pt 0!",1,76_0,Elektrolyysilasku on...,76,flashcard
+"Ihan vitusti, Elektrolyysilasku pt 1!",2,76_1,Elektrolyysilasku ei ole...,76,flashcard
+"Ihan vitusti, Elektrolyysilasku pt 2!",3,76_2,Elektrolyysilasku kaltainen on,76,flashcard
+"Ihan vitusti, Elektrolyysilasku pt 3!",4,76_3,Paljonko Elektrolyysilasku painaa?,76,OpenEnded
+"Ihan vitusti, Elektrolyysilasku pt 4!",5,76_4,Montako Elektrolyysilasku saa markalla?,76,OpenEnded
+"Ihan vitusti, Nernstin yhtälö pt 0!",1,77_0,Nernstin yhtälö on...,77,flashcard
+"Ihan vitusti, Nernstin yhtälö pt 1!",2,77_1,Nernstin yhtälö ei ole...,77,flashcard
+"Ihan vitusti, Nernstin yhtälö pt 2!",3,77_2,Nernstin yhtälö kaltainen on,77,flashcard
+"Ihan vitusti, Nernstin yhtälö pt 3!",4,77_3,Paljonko Nernstin yhtälö painaa?,77,OpenEnded
+"Ihan vitusti, Nernstin yhtälö pt 4!",5,77_4,Montako Nernstin yhtälö saa markalla?,77,OpenEnded
+"Ihan vitusti, Titraus pt 0!",1,78_0,Titraus on...,78,flashcard
+"Ihan vitusti, Titraus pt 1!",2,78_1,Titraus ei ole...,78,flashcard
+"Ihan vitusti, Titraus pt 2!",3,78_2,Titraus kaltainen on,78,flashcard
+"Ihan vitusti, Titraus pt 3!",4,78_3,Paljonko Titraus painaa?,78,OpenEnded
+"Ihan vitusti, Titraus pt 4!",5,78_4,Montako Titraus saa markalla?,78,OpenEnded
+"Ihan vitusti, Hapettuminen/pelkistyminen (org. kemia) pt 0!",1,79_0,Hapettuminen/pelkistyminen (org. kemia) on...,79,flashcard
+"Ihan vitusti, Hapettuminen/pelkistyminen (org. kemia) pt 1!",2,79_1,Hapettuminen/pelkistyminen (org. kemia) ei ole...,79,flashcard
+"Ihan vitusti, Hapettuminen/pelkistyminen (org. kemia) pt 2!",3,79_2,Hapettuminen/pelkistyminen (org. kemia) kaltainen on,79,flashcard
+"Ihan vitusti, Hapettuminen/pelkistyminen (org. kemia) pt 3!",4,79_3,Paljonko Hapettuminen/pelkistyminen (org. kemia) painaa?,79,OpenEnded
+"Ihan vitusti, Hapettuminen/pelkistyminen (org. kemia) pt 4!",5,79_4,Montako Hapettuminen/pelkistyminen (org. kemia) saa markalla?,79,OpenEnded
+"Ihan vitusti, Polymeerit pt 0!",1,80_0,Polymeerit on...,80,flashcard
+"Ihan vitusti, Polymeerit pt 1!",2,80_1,Polymeerit ei ole...,80,flashcard
+"Ihan vitusti, Polymeerit pt 2!",3,80_2,Polymeerit kaltainen on,80,flashcard
+"Ihan vitusti, Polymeerit pt 3!",4,80_3,Paljonko Polymeerit painaa?,80,OpenEnded
+"Ihan vitusti, Polymeerit pt 4!",5,80_4,Montako Polymeerit saa markalla?,80,OpenEnded
+"Ihan vitusti, Grafeeni pt 0!",1,81_0,Grafeeni on...,81,flashcard
+"Ihan vitusti, Grafeeni pt 1!",2,81_1,Grafeeni ei ole...,81,flashcard
+"Ihan vitusti, Grafeeni pt 2!",3,81_2,Grafeeni kaltainen on,81,flashcard
+"Ihan vitusti, Grafeeni pt 3!",4,81_3,Paljonko Grafeeni painaa?,81,OpenEnded
+"Ihan vitusti, Grafeeni pt 4!",5,81_4,Montako Grafeeni saa markalla?,81,OpenEnded
+"Ihan vitusti, Reaktiotasapaino pt 0!",1,82_0,Reaktiotasapaino on...,82,flashcard
+"Ihan vitusti, Reaktiotasapaino pt 1!",2,82_1,Reaktiotasapaino ei ole...,82,flashcard
+"Ihan vitusti, Reaktiotasapaino pt 2!",3,82_2,Reaktiotasapaino kaltainen on,82,flashcard
+"Ihan vitusti, Reaktiotasapaino pt 3!",4,82_3,Paljonko Reaktiotasapaino painaa?,82,OpenEnded
+"Ihan vitusti, Reaktiotasapaino pt 4!",5,82_4,Montako Reaktiotasapaino saa markalla?,82,OpenEnded
+"Ihan vitusti, Le Châtelier’n periaate (konsentraatio, paine, lämpötila) pt 0!",1,83_0,"Le Châtelier’n periaate (konsentraatio, paine, lämpötila) on...",83,flashcard
+"Ihan vitusti, Le Châtelier’n periaate (konsentraatio, paine, lämpötila) pt 1!",2,83_1,"Le Châtelier’n periaate (konsentraatio, paine, lämpötila) ei ole...",83,flashcard
+"Ihan vitusti, Le Châtelier’n periaate (konsentraatio, paine, lämpötila) pt 2!",3,83_2,"Le Châtelier’n periaate (konsentraatio, paine, lämpötila) kaltainen on",83,flashcard
+"Ihan vitusti, Le Châtelier’n periaate (konsentraatio, paine, lämpötila) pt 3!",4,83_3,"Paljonko Le Châtelier’n periaate (konsentraatio, paine, lämpötila) painaa?",83,OpenEnded
+"Ihan vitusti, Le Châtelier’n periaate (konsentraatio, paine, lämpötila) pt 4!",5,83_4,"Montako Le Châtelier’n periaate (konsentraatio, paine, lämpötila) saa markalla?",83,OpenEnded
+"Ihan vitusti, Hapot ja emäkset (kertaus) pt 0!",1,84_0,Hapot ja emäkset (kertaus) on...,84,flashcard
+"Ihan vitusti, Hapot ja emäkset (kertaus) pt 1!",2,84_1,Hapot ja emäkset (kertaus) ei ole...,84,flashcard
+"Ihan vitusti, Hapot ja emäkset (kertaus) pt 2!",3,84_2,Hapot ja emäkset (kertaus) kaltainen on,84,flashcard
+"Ihan vitusti, Hapot ja emäkset (kertaus) pt 3!",4,84_3,Paljonko Hapot ja emäkset (kertaus) painaa?,84,OpenEnded
+"Ihan vitusti, Hapot ja emäkset (kertaus) pt 4!",5,84_4,Montako Hapot ja emäkset (kertaus) saa markalla?,84,OpenEnded
+"Ihan vitusti, Heikot emäkset ja neutraloituminen pt 0!",1,85_0,Heikot emäkset ja neutraloituminen on...,85,flashcard
+"Ihan vitusti, Heikot emäkset ja neutraloituminen pt 1!",2,85_1,Heikot emäkset ja neutraloituminen ei ole...,85,flashcard
+"Ihan vitusti, Heikot emäkset ja neutraloituminen pt 2!",3,85_2,Heikot emäkset ja neutraloituminen kaltainen on,85,flashcard
+"Ihan vitusti, Heikot emäkset ja neutraloituminen pt 3!",4,85_3,Paljonko Heikot emäkset ja neutraloituminen painaa?,85,OpenEnded
+"Ihan vitusti, Heikot emäkset ja neutraloituminen pt 4!",5,85_4,Montako Heikot emäkset ja neutraloituminen saa markalla?,85,OpenEnded
+"Ihan vitusti, Happo- ja emäsvakiot pt 0!",1,86_0,Happo- ja emäsvakiot on...,86,flashcard
+"Ihan vitusti, Happo- ja emäsvakiot pt 1!",2,86_1,Happo- ja emäsvakiot ei ole...,86,flashcard
+"Ihan vitusti, Happo- ja emäsvakiot pt 2!",3,86_2,Happo- ja emäsvakiot kaltainen on,86,flashcard
+"Ihan vitusti, Happo- ja emäsvakiot pt 3!",4,86_3,Paljonko Happo- ja emäsvakiot painaa?,86,OpenEnded
+"Ihan vitusti, Happo- ja emäsvakiot pt 4!",5,86_4,Montako Happo- ja emäsvakiot saa markalla?,86,OpenEnded
+"Ihan vitusti, Veden ionitulo pt 0!",1,87_0,Veden ionitulo on...,87,flashcard
+"Ihan vitusti, Veden ionitulo pt 1!",2,87_1,Veden ionitulo ei ole...,87,flashcard
+"Ihan vitusti, Veden ionitulo pt 2!",3,87_2,Veden ionitulo kaltainen on,87,flashcard
+"Ihan vitusti, Veden ionitulo pt 3!",4,87_3,Paljonko Veden ionitulo painaa?,87,OpenEnded
+"Ihan vitusti, Veden ionitulo pt 4!",5,87_4,Montako Veden ionitulo saa markalla?,87,OpenEnded
+"Ihan vitusti, pH (eli happamuus) pt 0!",1,88_0,pH (eli happamuus) on...,88,flashcard
+"Ihan vitusti, pH (eli happamuus) pt 1!",2,88_1,pH (eli happamuus) ei ole...,88,flashcard
+"Ihan vitusti, pH (eli happamuus) pt 2!",3,88_2,pH (eli happamuus) kaltainen on,88,flashcard
+"Ihan vitusti, pH (eli happamuus) pt 3!",4,88_3,Paljonko pH (eli happamuus) painaa?,88,OpenEnded
+"Ihan vitusti, pH (eli happamuus) pt 4!",5,88_4,Montako pH (eli happamuus) saa markalla?,88,OpenEnded
+"Ihan vitusti, pH ja pOH pt 0!",1,89_0,pH ja pOH on...,89,flashcard
+"Ihan vitusti, pH ja pOH pt 1!",2,89_1,pH ja pOH ei ole...,89,flashcard
+"Ihan vitusti, pH ja pOH pt 2!",3,89_2,pH ja pOH kaltainen on,89,flashcard
+"Ihan vitusti, pH ja pOH pt 3!",4,89_3,Paljonko pH ja pOH painaa?,89,OpenEnded
+"Ihan vitusti, pH ja pOH pt 4!",5,89_4,Montako pH ja pOH saa markalla?,89,OpenEnded
+"Ihan vitusti, Vakioiden välinen yhteys pt 0!",1,90_0,Vakioiden välinen yhteys on...,90,flashcard
+"Ihan vitusti, Vakioiden välinen yhteys pt 1!",2,90_1,Vakioiden välinen yhteys ei ole...,90,flashcard
+"Ihan vitusti, Vakioiden välinen yhteys pt 2!",3,90_2,Vakioiden välinen yhteys kaltainen on,90,flashcard
+"Ihan vitusti, Vakioiden välinen yhteys pt 3!",4,90_3,Paljonko Vakioiden välinen yhteys painaa?,90,OpenEnded
+"Ihan vitusti, Vakioiden välinen yhteys pt 4!",5,90_4,Montako Vakioiden välinen yhteys saa markalla?,90,OpenEnded
+"Ihan vitusti, Moniarvoiset hapot pt 0!",1,91_0,Moniarvoiset hapot on...,91,flashcard
+"Ihan vitusti, Moniarvoiset hapot pt 1!",2,91_1,Moniarvoiset hapot ei ole...,91,flashcard
+"Ihan vitusti, Moniarvoiset hapot pt 2!",3,91_2,Moniarvoiset hapot kaltainen on,91,flashcard
+"Ihan vitusti, Moniarvoiset hapot pt 3!",4,91_3,Paljonko Moniarvoiset hapot painaa?,91,OpenEnded
+"Ihan vitusti, Moniarvoiset hapot pt 4!",5,91_4,Montako Moniarvoiset hapot saa markalla?,91,OpenEnded
+"Ihan vitusti, Happodemonstraatioita pt 0!",1,92_0,Happodemonstraatioita on...,92,flashcard
+"Ihan vitusti, Happodemonstraatioita pt 1!",2,92_1,Happodemonstraatioita ei ole...,92,flashcard
+"Ihan vitusti, Happodemonstraatioita pt 2!",3,92_2,Happodemonstraatioita kaltainen on,92,flashcard
+"Ihan vitusti, Happodemonstraatioita pt 3!",4,92_3,Paljonko Happodemonstraatioita painaa?,92,OpenEnded
+"Ihan vitusti, Happodemonstraatioita pt 4!",5,92_4,Montako Happodemonstraatioita saa markalla?,92,OpenEnded
+"Ihan vitusti, Titraus pt 0!",1,93_0,Titraus on...,93,flashcard
+"Ihan vitusti, Titraus pt 1!",2,93_1,Titraus ei ole...,93,flashcard
+"Ihan vitusti, Titraus pt 2!",3,93_2,Titraus kaltainen on,93,flashcard
+"Ihan vitusti, Titraus pt 3!",4,93_3,Paljonko Titraus painaa?,93,OpenEnded
+"Ihan vitusti, Titraus pt 4!",5,93_4,Montako Titraus saa markalla?,93,OpenEnded
+"Ihan vitusti, Liukoisuustulo pt 0!",1,94_0,Liukoisuustulo on...,94,flashcard
+"Ihan vitusti, Liukoisuustulo pt 1!",2,94_1,Liukoisuustulo ei ole...,94,flashcard
+"Ihan vitusti, Liukoisuustulo pt 2!",3,94_2,Liukoisuustulo kaltainen on,94,flashcard
+"Ihan vitusti, Liukoisuustulo pt 3!",4,94_3,Paljonko Liukoisuustulo painaa?,94,OpenEnded
+"Ihan vitusti, Liukoisuustulo pt 4!",5,94_4,Montako Liukoisuustulo saa markalla?,94,OpenEnded
+"Ihan vitusti, Ionitulo pt 0!",1,95_0,Ionitulo on...,95,flashcard
+"Ihan vitusti, Ionitulo pt 1!",2,95_1,Ionitulo ei ole...,95,flashcard
+"Ihan vitusti, Ionitulo pt 2!",3,95_2,Ionitulo kaltainen on,95,flashcard
+"Ihan vitusti, Ionitulo pt 3!",4,95_3,Paljonko Ionitulo painaa?,95,OpenEnded
+"Ihan vitusti, Ionitulo pt 4!",5,95_4,Montako Ionitulo saa markalla?,95,OpenEnded
+"Ihan vitusti, Yhteinen ioni (liukoisuustulo) pt 0!",1,96_0,Yhteinen ioni (liukoisuustulo) on...,96,flashcard
+"Ihan vitusti, Yhteinen ioni (liukoisuustulo) pt 1!",2,96_1,Yhteinen ioni (liukoisuustulo) ei ole...,96,flashcard
+"Ihan vitusti, Yhteinen ioni (liukoisuustulo) pt 2!",3,96_2,Yhteinen ioni (liukoisuustulo) kaltainen on,96,flashcard
+"Ihan vitusti, Yhteinen ioni (liukoisuustulo) pt 3!",4,96_3,Paljonko Yhteinen ioni (liukoisuustulo) painaa?,96,OpenEnded
+"Ihan vitusti, Yhteinen ioni (liukoisuustulo) pt 4!",5,96_4,Montako Yhteinen ioni (liukoisuustulo) saa markalla?,96,OpenEnded
+"Ihan vitusti, Liukoisuus ja pH pt 0!",1,97_0,Liukoisuus ja pH on...,97,flashcard
+"Ihan vitusti, Liukoisuus ja pH pt 1!",2,97_1,Liukoisuus ja pH ei ole...,97,flashcard
+"Ihan vitusti, Liukoisuus ja pH pt 2!",3,97_2,Liukoisuus ja pH kaltainen on,97,flashcard
+"Ihan vitusti, Liukoisuus ja pH pt 3!",4,97_3,Paljonko Liukoisuus ja pH painaa?,97,OpenEnded
+"Ihan vitusti, Liukoisuus ja pH pt 4!",5,97_4,Montako Liukoisuus ja pH saa markalla?,97,OpenEnded
+"Ihan vitusti, Puskuriliuos pt 0!",1,98_0,Puskuriliuos on...,98,flashcard
+"Ihan vitusti, Puskuriliuos pt 1!",2,98_1,Puskuriliuos ei ole...,98,flashcard
+"Ihan vitusti, Puskuriliuos pt 2!",3,98_2,Puskuriliuos kaltainen on,98,flashcard
+"Ihan vitusti, Puskuriliuos pt 3!",4,98_3,Paljonko Puskuriliuos painaa?,98,OpenEnded
+"Ihan vitusti, Puskuriliuos pt 4!",5,98_4,Montako Puskuriliuos saa markalla?,98,OpenEnded
+"Ihan vitusti, Henderson-Hasselbalchin yhtälö pt 0!",1,99_0,Henderson-Hasselbalchin yhtälö on...,99,flashcard
+"Ihan vitusti, Henderson-Hasselbalchin yhtälö pt 1!",2,99_1,Henderson-Hasselbalchin yhtälö ei ole...,99,flashcard
+"Ihan vitusti, Henderson-Hasselbalchin yhtälö pt 2!",3,99_2,Henderson-Hasselbalchin yhtälö kaltainen on,99,flashcard
+"Ihan vitusti, Henderson-Hasselbalchin yhtälö pt 3!",4,99_3,Paljonko Henderson-Hasselbalchin yhtälö painaa?,99,OpenEnded
+"Ihan vitusti, Henderson-Hasselbalchin yhtälö pt 4!",5,99_4,Montako Henderson-Hasselbalchin yhtälö saa markalla?,99,OpenEnded
+"Ihan vitusti, Laskuja puskuriliuoksilla pt 0!",1,100_0,Laskuja puskuriliuoksilla on...,100,flashcard
+"Ihan vitusti, Laskuja puskuriliuoksilla pt 1!",2,100_1,Laskuja puskuriliuoksilla ei ole...,100,flashcard
+"Ihan vitusti, Laskuja puskuriliuoksilla pt 2!",3,100_2,Laskuja puskuriliuoksilla kaltainen on,100,flashcard
+"Ihan vitusti, Laskuja puskuriliuoksilla pt 3!",4,100_3,Paljonko Laskuja puskuriliuoksilla painaa?,100,OpenEnded
+"Ihan vitusti, Laskuja puskuriliuoksilla pt 4!",5,100_4,Montako Laskuja puskuriliuoksilla saa markalla?,100,OpenEnded
+"Ihan vitusti, Tasapainovakio osapaineista pt 0!",1,101_0,Tasapainovakio osapaineista on...,101,flashcard
+"Ihan vitusti, Tasapainovakio osapaineista pt 1!",2,101_1,Tasapainovakio osapaineista ei ole...,101,flashcard
+"Ihan vitusti, Tasapainovakio osapaineista pt 2!",3,101_2,Tasapainovakio osapaineista kaltainen on,101,flashcard
+"Ihan vitusti, Tasapainovakio osapaineista pt 3!",4,101_3,Paljonko Tasapainovakio osapaineista painaa?,101,OpenEnded
+"Ihan vitusti, Tasapainovakio osapaineista pt 4!",5,101_4,Montako Tasapainovakio osapaineista saa markalla?,101,OpenEnded

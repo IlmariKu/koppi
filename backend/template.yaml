@@ -1,0 +1,249 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description:
+  Koppi-app
+
+Globals:
+  Function:
+    Timeout: 200
+
+Resources:
+  GetQuestionsFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: get_questions/
+      Handler: app.lambda_handler
+      Runtime: python3.7
+      Policies:
+        - DynamoDBReadPolicy:
+            TableName: !Ref QuestionTable
+        - DynamoDBReadPolicy:
+            TableName: !Ref AnswerTable
+        - DynamoDBWritePolicy:
+            TableName: !Ref AnswerTable
+        - DynamoDBReadPolicy:
+            TableName: !Ref SubjectTable
+      Events:
+        ExplicitApi:
+          Type: HttpApi
+          Properties:
+            ApiId: !Ref KoppiApi
+            Path: /get_questions
+            Method: get
+            TimeoutInMillis: 60000
+
+  SendAnswerFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: send_answer/
+      Handler: app.lambda_handler
+      Runtime: python3.7
+      Policies:
+        - DynamoDBWritePolicy:
+            TableName: !Ref AnswerTable
+        - DynamoDBWritePolicy:
+            TableName: !Ref AnalyticsTable
+      Events:
+        ExplicitApi:
+          Type: HttpApi
+          Properties:
+            ApiId: !Ref KoppiApi
+            Path: /send_answer
+            Method: post
+            TimeoutInMillis: 15000
+
+  GetAnalytics:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: get_analytics/
+      Handler: app.lambda_handler
+      Runtime: python3.7
+      Policies:
+        - DynamoDBReadPolicy:
+            TableName: !Ref QuestionTable
+        - DynamoDBReadPolicy:
+            TableName: !Ref AnswerTable
+        - DynamoDBReadPolicy:
+            TableName: !Ref SubjectTable
+        - DynamoDBCrudPolicy:
+            TableName: !Ref AnalyticsTable
+      Events:
+        ExplicitApi:
+          Type: HttpApi
+          Properties:
+            ApiId: !Ref KoppiApi
+            Path: /get_analytics
+            Method: get
+            TimeoutInMillis: 15000
+
+  GetUserFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: user_info/
+      Handler: app.lambda_handler
+      Runtime: python3.7
+      Events:
+        ExplicitApi:
+          Type: HttpApi
+          Properties:
+            ApiId: !Ref KoppiApi
+            Path: /user_info
+            Method: get
+            TimeoutInMillis: 15000
+
+  CreateNewUserFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: create_new_user/
+      Handler: app.lambda_handler
+      Runtime: python3.7
+      Policies:
+        - DynamoDBWritePolicy:
+            TableName: !Ref UserTable
+
+  KoppiApi:
+    Type: AWS::Serverless::HttpApi
+    Properties:
+      CorsConfiguration:
+        AllowOrigins:
+          - "*"
+        AllowHeaders:
+          - "*"
+        AllowMethods:
+          - GET
+          - POST
+
+  QuestionTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      AttributeDefinitions:
+        -
+          AttributeName: "QuestionId"
+          AttributeType: "S"
+      KeySchema:
+        -
+          AttributeName: "QuestionId"
+          KeyType: "HASH"
+      ProvisionedThroughput:
+        ReadCapacityUnits: "5"
+        WriteCapacityUnits: "5"
+      TableName: "Questions"
+
+  AnalyticsTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      AttributeDefinitions:
+        -
+          AttributeName: "AnswerId"
+          AttributeType: "S"
+      KeySchema:
+        -
+          AttributeName: "AnswerId"
+          KeyType: "HASH"
+      ProvisionedThroughput:
+        ReadCapacityUnits: "5"
+        WriteCapacityUnits: "5"
+      TableName: "AnalyticsRe"
+
+  AnswerTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      AttributeDefinitions:
+        -
+          AttributeName: "AnswerId"
+          AttributeType: "S"
+      KeySchema:
+        -
+          AttributeName: "AnswerId"
+          KeyType: "HASH"
+      ProvisionedThroughput:
+        ReadCapacityUnits: "5"
+        WriteCapacityUnits: "5"
+      TableName: "Answers"
+
+  SubjectTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      AttributeDefinitions:
+        -
+          AttributeName: "TopicId"
+          AttributeType: "S"
+      KeySchema:
+        -
+          AttributeName: "TopicId"
+          KeyType: "HASH"
+      ProvisionedThroughput:
+        ReadCapacityUnits: "5"
+        WriteCapacityUnits: "5"
+      TableName: "Topics"
+
+  UserTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      AttributeDefinitions:
+        -
+          AttributeName: "UserId"
+          AttributeType: "S"
+      KeySchema:
+        -
+          AttributeName: "UserId"
+          KeyType: "HASH"
+      ProvisionedThroughput:
+        ReadCapacityUnits: "5"
+        WriteCapacityUnits: "5"
+      TableName: "Users"
+
+  CognitoUserPool:
+    Type: AWS::Cognito::UserPool
+    Properties:
+      UserPoolName: CognitoUsers
+      LambdaConfig:
+        PreSignUp: !GetAtt CreateNewUserFunction.Arn
+      Policies:
+        PasswordPolicy:
+          MinimumLength: 8
+      UsernameAttributes:
+        - email
+      Schema:
+        - AttributeDataType: String
+          Name: email
+          Required: true
+        - AttributeDataType: String
+          Name: first_name
+          Required: false
+        - AttributeDataType: String
+          Name: last_name
+          Required: false
+        - AttributeDataType: String
+          Name: user_id
+          Required: false
+
+  CognitoUserPoolClient:
+    Type: AWS::Cognito::UserPoolClient
+    Properties:
+      UserPoolId: !Ref CognitoUserPool
+      ClientName: CognitoUserPoolClientName
+      GenerateSecret: false
+
+  UserPoolLambdaInvokePermission:
+    Type: AWS::Lambda::Permission
+    Properties:
+      Action: lambda:InvokeFunction
+      FunctionName: !GetAtt CreateNewUserFunction.Arn
+      Principal: cognito-idp.amazonaws.com
+      SourceArn: !GetAtt CognitoUserPool.Arn
+
+Outputs:
+  GetQuestionsApi:
+    Description: "API Gateway endpoint URL for Get Questions function"
+    Value: !Sub "https://${KoppiApi}.execute-api.${AWS::Region}.amazonaws.com/get_questions/"
+  GetUserInfoApi:
+    Description: "API Gateway endpoint URL for User Info function"
+    Value: !Sub "https://${KoppiApi}.execute-api.${AWS::Region}.amazonaws.com/user_info/"
+  GetQuestionsFunctionIamRole:
+    Description: "Implicit IAM Role created for Get Questions function"
+    Value: !GetAtt GetQuestionsFunctionRole.Arn
+  HttpApiUrl:
+    Description: URL of your API endpoint
+    Value:
+      Fn::Sub: 'https://${KoppiApi}.execute-api.${AWS::Region}.${AWS::URLSuffix}/'
